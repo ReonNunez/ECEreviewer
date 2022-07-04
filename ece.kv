@@ -1,0 +1,174 @@
+WindowManager:
+    Menu:
+    Quiz:
+    ElectronicsCategory:
+    CommunicationCategory:
+    MathematicsCategory:
+    GEASCategory:
+
+<Menu>:
+    name:"menu"
+
+    GridLayout:
+        cols:1
+        size: root.width, root.height
+
+        Label:
+            text: "ECE Reviewer"
+        
+        GridLayout:
+            cols:2
+
+            Button:
+                text: "Electronics"
+                on_release: app.root.current = "electronics"
+            Button:
+                text: "Communication"
+                on_release: app.root.current = "communication"
+            Button:
+                text: "Mathematics"
+                on_release: app.root.current = "mathematics"
+            Button:
+                text: "GEAS"
+                on_release: app.root.current = "geas"
+<Quiz>:
+    name: "quiz"
+    button1: button1
+    button2: button2
+    button3: button3
+    button4: button4
+    sccoreLabel : sccoreLabel
+    questionLabel: questionLabel
+    wrongLabel: wrongLabel
+    correctLabel: correctLabel
+
+    GridLayout:
+        cols:1
+        size: root.width, root.height
+        
+        GridLayout:
+            cols:2
+            Label:
+                text: "Score: "
+            Label:
+                id: sccoreLabel
+                text: "0"
+            Label:
+                text: "Wrong Answers: "
+            Label:
+                id: wrongLabel
+                text: "0"
+        Label:
+            id: correctLabel
+            text: ''
+            text_size: self.width, None
+            halign:'center'
+        Label:
+            id: questionLabel
+            text: ''
+            text_size: self.width, None
+            halign:'center'
+        
+        GridLayout:
+            cols:2
+
+            Button:
+                id: button1
+                text: ""
+                text_size: self.width, None
+                halign:'center'
+                on_release: root.button1_action()
+            Button:
+                id: button2
+                text: ""
+                text_size: self.width, None
+                halign:'center'
+                on_release: root.button2_action()
+            Button:
+                id: button3
+                text: ""
+                text_size: self.width, None
+                halign:'center'
+                on_release: root.button3_action()
+            Button:
+                id: button4
+                text: ""
+                text_size: self.width, None
+                halign:'center'
+                on_release: root.button4_action()
+
+<ElectronicsCategory>:
+    name: "electronics"
+
+    GridLayout:
+        cols: 1
+        size: root.width, root.height
+
+        Label:
+            text: "Pick a specific topic"
+            text_size: self.width, None
+            halign:'center'
+        GridLayout:
+            cols: 2
+
+            Button:
+                text: "DC Circuits"
+                text_size: self.width, None
+                halign:'center'
+                on_release: 
+                    app.root.current = "quiz"
+                    root.button_DCCircuits()
+            Button:
+                text: "AC Circuits"
+                text_size: self.width, None
+                halign:'center'
+                on_release: 
+                    app.root.current = "quiz"
+                    root.button_ACCircuits()
+            Button:
+                text: "Solid State Devices"
+                text_size: self.width, None
+                halign:'center'
+                on_release: 
+                    app.root.current = "quiz"
+                    root.button_SolidState()
+            Button:
+                text: "Amplifiers"
+                text_size: self.width, None
+                halign:'center'
+                on_release: 
+                    app.root.current = "quiz"
+                    root.button_Amplifiers()
+            Button:
+                text: "Go Back"
+                text_size: self.width, None
+                halign:'center'
+                on_release: 
+                    app.root.current = "menu"
+<CommunicationCategory>:
+    name: "communication"
+    Button:
+        text: "Go Back"
+        text_size: self.width, None
+        halign:'center'
+        on_release: 
+            app.root.current = "menu"
+
+<MathematicsCategory>:
+    name: "mathematics"
+    Button:
+        text: "Go Back"
+        text_size: self.width, None
+        halign:'center'
+        on_release: 
+            app.root.current = "menu"
+
+<GEASCategory>:
+    name: "geas"
+    Button:
+        text: "Go Back"
+        text_size: self.width, None
+        halign:'center'
+        on_release: 
+            app.root.current = "menu"
+                

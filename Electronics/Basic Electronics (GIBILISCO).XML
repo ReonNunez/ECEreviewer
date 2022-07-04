@@ -1,0 +1,1494 @@
+﻿<!-- This is the question xml file. Feel free to add new questions. Just add a new challenge, and include a "question", the "answer" and 4 options. Happy Coding! -->
+
+<elecquestions>
+
+<challenge answer = "2">
+<question> The term semiconductor arises from </question>
+<option1>a. resistor-like properties of metal oxides. </option1>
+<option2>b. variable conductive properties of some materials. </option2>
+<option3>c. the fact that electrons conduct better than holes. </option3>
+<option4>d. insulating properties of silicon and GaAs. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Which of the following is not an advantage of semiconductor devices over vacuum tubes? </question>
+<option1>a. Smaller size </option1>
+<option2>b. Lower working voltage </option2>
+<option3>c. Lighter weight </option3>
+<option4>d. Ability to withstand high voltage spikes </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Of the following substances, which is the most commonly used semiconductor? </question>
+<option1>a. Germanium </option1>
+<option2>b. Galena </option2>
+<option3>c. Silicon </option3>
+<option4>d. Copper </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> GaAs is </question>
+<option1>a. a compound. </option1>
+<option2>b. an element. </option2>
+<option3>c. a mixture. </option3>
+<option4>d. a gas. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A disadvantage of MOS devices is the fact that </question>
+<option1>a. the charge carriers move fast. </option1>
+<option2>b. the material does not react by electrostatic discharges. </option2>
+<option3>c. they can be damaged by electrostatic discharges. </option3>
+<option4>d. they must always be used at high frequencies. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Selenium works especially well in </question>
+<option1>a. photocells. </option1>
+<option2>b. high-frequency detectors. </option2>
+<option3>c. RF power amplifiers. </option3>
+<option4>d. voltage regulators. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Of the following, which material allows the lowest forward voltage drop is a diode? </question>
+<option1>a. Selenium </option1>
+<option2>b. Silicon </option2>
+<option3>c. Copper </option3>
+<option4>d. Germanium </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A CMOS integrated circuit </question>
+<option1>a. can only work at low frequencies. </option1>
+<option2>b. requires very little power to function. </option2>
+<option3>c. requires considerable power to function. </option3>
+<option4>d. can only work at high frequencies. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The purpose of doping is to </question>
+<option1>a. make the charge carriers move faster. </option1>
+<option2>b. cause holes to flow. </option2>
+<option3>c. give a semiconductor material specific properties. </option3>
+<option4>d. protect devices from damage in case of transients. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A semiconductor material is made into N type by </question>
+<option1>a. adding an acceptor impurity. </option1>
+<option2>b. adding a donor impurity. </option2>
+<option3>c. injecting protons. </option3>
+<option4>d. taking neutrons away. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Which of the following does not result from adding an acceptor impurity? </question>
+<option1>a. The material becomes P type. </option1>
+<option2>b. Current flows mainly in the form of holes. </option2>
+<option3>c. Most of the carriers have positive electric charge. </option3>
+<option4>d. The substance acquires an electron surplus. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> In a P-type material, electrons are </question>
+<option1>a. the majority carriers. </option1>
+<option2>b. the minority carriers. </option2>
+<option3>c. positively charged. </option3>
+<option4>d. entirely absent. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Holes move from </question>
+<option1>a. minus to plus. </option1>
+<option2>b. plus to minus. </option2>
+<option3>c. P-type to N-type material. </option3>
+<option4>d. N-type to P-type material. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> When a P-N junction does not conduct even though a voltage is applied, the junction is </question>
+<option1>a. reverse-biased at a voltage less than the avalance voltage. </option1>
+<option2>b. overdriven. </option2>
+<option3>c. biased past the breaker voltage. </option3>
+<option4>d. in a state of avalanche effect. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Holes flow the opposite way from electrons because </question>
+<option1>a. charge carriers flow continuously. </option1>
+<option2>b. they have opposite electric charge. </option2>
+<option3>c. they have the same electric charge. </option3>
+<option4>d. Forget it! Holes flow in the same direction as electrons. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> If an electron is considered to have a charge of -1 unit, then a hole can be considered to have </question>
+<option1>a. a charge of -1 unit. </option1>
+<option2>b. no charge. </option2>
+<option3>c. a charge of +1 unit. </option3>
+<option4>d. a charge that depends on the semiconductor type. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> When a P-N junction is forward-biased, conduction will not occur unless </question>
+<option1>a. the applied voltage exceeds the forward breakover voltage. </option1>
+<option2>b. the applied voltage is less than the forward breakover voltage. </option2>
+<option3>c. the junction capacitance is high enough. </option3>
+<option4>d. the depletion region is wide enough. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> If the reverse bias exceeds the avalanche voltage in a P-N junction, </question>
+<option1>a. the junction will be destroyed. </option1>
+<option2>b. the junction will insulate; no current will flow. </option2>
+<option3>c. the junction will conduct current. </option3>
+<option4>d. the capacitance will become extremely low. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question>  Avalanche voltage is routinely exceeded when a P-N junction acts as a </question>
+<option1>a. current rectifier. </option1>
+<option2>b. variable resistor. </option2>
+<option3>c. variable capacitor. </option3>
+<option4>d. voltage regulator. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Which of the following does not affect the junction capacitance of a diode? </question>
+<option1>a. the cross-section area ofo the P-N junction </option1>
+<option2>b. the width of the depletion region </option2>
+<option3>c. the phase of an applied ac signal </option3>
+<option4>d. the reverse-bias voltage </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> When a diode is forward-biased, the anode voltage </question>
+<option1>a. is negative relative to the cathode voltage. </option1>
+<option2>b. is positive relative to the cathode voltage. </option2>
+<option3>c. is the same as the cathode voltage. </option3>
+<option4>d. alternates between positive and negative relative to the cathode voltage. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A crystal set </question>
+<option1>a. can be used to transmit radio signals. </option1>
+<option2>b. requires a battery with long life. </option2>
+<option3>c. requires no battery. </option3>
+<option4>d. is used for rectifying 60-Hz ac. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A diode detector </question>
+<option1>a. is used in power supplies. </option1>
+<option2>b. is employed in some radio receivers. </option2>
+<option3>c. is used to generate microwave RF signals. </option3>
+<option4>d. changes dc into ac. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> If the output wave in a circuit has the same shape as the input wave, then </question>
+<option1>a. the circuit is operating in a linear manner. </option1>
+<option2>b. the circuit is operating as a frequency multiplier. </option2>
+<option3>c. the circuit is operating as a mixer. </option3>
+<option4>d. the circuit is operating as a rectifier. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Fill in the blanks to make the following sentence correct: "A spectrum analyzer provides a display of ______as a function of _______. </question>
+<option1>a. amplitude/time </option1>
+<option2>b. time/frequency </option2>
+<option3>c. frequency/time </option3>
+<option4>d. amplitude/frequency </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Zener voltage is a specialized manifestation of </question>
+<option1>a. forward breakover voltage. </option1>
+<option2>b. peak forward voltage. </option2>
+<option3>c. avalanche voltage. </option3>
+<option4>d. reverse bias. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A diode audio limiter circuit </question>
+<option1>a. is useful for voltage regulation. </option1>
+<option2>b. always uses Zener diodes. </option2>
+<option3>c. rectifies the audio to reduce distortion. </option3>
+<option4>d. can cause distortion under some conditions. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> The capacitance of a varactor varies with the </question>
+<option1>a. forward voltage. </option1>
+<option2>b. reverse voltage. </option2>
+<option3>c. avalanche voltage. </option3>
+<option4>d. forward breakover voltage. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> The purpose of the I layer in a PIN diode is to </question>
+<option1>a. minimizes the junction capacitance. </option1>
+<option2>b. optimize the avalache voltage. </option2>
+<option3>c. reduce the forward breakover voltage. </option3>
+<option4>d. increase the current through the diode. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Which of these diode types can be used as the key element in the oscillator circuit of a microwave radio transmitter? </question>
+<option1>a. A rectifier diode </option1>
+<option2>b. A PIN diode </option2>
+<option3>c. An IMPATT diode </option3>
+<option4>d. None of the above </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A Gunnplexer is often used as a </question>
+<option1>a. microwave communications device. </option1>
+<option2>b. low-frequency RF detector. </option2>
+<option3>c. high-voltage rectifier. </option3>
+<option4>d. signal mixer or frequency divider. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The most likely place you would find an LED would be in </question>
+<option1>a. a rectifier circuit. </option1>
+<option2>b. a mixer circuit. </option2>
+<option3>c. a digital frequency display. </option3>
+<option4>d. an oscillator circuit. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Coherent electromagnetic radiation is produced by a </question>
+<option1>a. Gunn diode. </option1>
+<option2>b. varactor diode. </option2>
+<option3>c. rectifier diode. </option3>
+<option4>d. laser diode. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Suppose you want a circuit to operate in a stable manner when the load impedance varies. You might consider a coupling method that employs </question>
+<option1>a. a Gunn diode. </option1>
+<option2>b. an optoisolator. </option2>
+<option3>c. a photovoltaic cell. </option3>
+<option4>d. a PIN diode. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> The electrical power that a solar panel can provide in direct sunlight depends on all of the following factors except </question>
+<option1>a. the ac voltage applied to the panel. </option1>
+<option2>b. the total surface area of all the cells in the panel. </option2>
+<option3>c. the angle at which the sunlight strikes the cells. </option3>
+<option4>d. the intensity of the sunlight that strikes the cells. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Emission of energy in an IRED is caused by </question>
+<option1>a. high-frequency radio waves. </option1>
+<option2>b. rectification. </option2>
+<option3>c. changes in electron energy within atoms. </option3>
+<option4>d. none of the above. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A photodiode, when not used as a photovoltaic cell, has </question>
+<option1>a. reverse bias. </option1>
+<option2>b. no bias. </option2>
+<option3>c. forward bias. </option3>
+<option4>d. negative resistance. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The output of a rectifier circuit without a filter included is </question>
+<option1>a. 60 Hz ac. </option1>
+<option2>b. smooth dc. </option2>
+<option3>c. pulsating dc. </option3>
+<option4>d. 120 Hz ac. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Which of the following components is not necessarily required in a power supply designed to produce 12-V dc output with 117-V rms a input? </question>
+<option1>a. The transformer </option1>
+<option2>b. The filter </option2>
+<option3>c. The rectifier </option3>
+<option4>d. All of the above components are required. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Of the following appliance, which would need the biggest transformer? </question>
+<option1>a. A clock radio </option1>
+<option2>b. A television broadcast transmitter </option2>
+<option3>c. A shortwave radio receiver </option3>
+<option4>d. A home television set </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> An advantage of full-wave bridge rectification is the fact that </question>
+<option1>a. it uses the whole transformer secondary for the entire ac input cycle. </option1>
+<option2>b. it costs less than other rectifier types. </option2>
+<option3>c. it cuts off half of the ac wave cycle. </option3>
+<option4>d. it never needs a filter. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> In a power supply designed to provide high power at low voltage, the best rectifier circuit would probably be the </question>
+<option1>a. half-wave arrangement. </option1>
+<option2>b. full-wave, center-tap arrangement. </option2>
+<option3>c. quarter-wave arrangement. </option3>
+<option4>d. voltage double arrangement. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The part of a power supply immediately preceding the regulator is </question>
+<option1>a. the transformer. </option1>
+<option2>b. the rectifier. </option2>
+<option3>c. the filter. </option3>
+<option4>d. the ac input. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> If a half-wave rectifier is used with 165-V pk ac input, the effective dc output voltage is </question>
+<option1>a. considerably less than 165 V. </option1>
+<option2>b. slightly less than 165 V. </option2>
+<option3>c. exactly 165 V. </option3>
+<option4>d. slightly more than 165 V. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> What is the principal disadvantage of a voltage-doubler power supply circuit? </question>
+<option1>a. Excessive current </option1>
+<option2>b. Excessive voltage </option2>
+<option3>c. Insufficient rectification </option3>
+<option4>d. Poor regulation under heavy loads </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Suppose a transformer secondary provides 10-V rms ac to a voltage-doubler circuit. What is the approximate dc output voltage with no load? </question>
+<option1>a. 14 V </option1>
+<option2>b. 20 V </option2>
+<option3>c. 28 V </option3>
+<option4>d. 36 V </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> The ripple frequency from a full-wave rectifier is </question>
+<option1>a. twice that from a half-wave circuit. </option1>
+<option2>b. the same as that from a half-wave circuit. </option2>
+<option3>c. half that from a half-wave circuit. </option3>
+<option4>d. 1/4 that from a half-wave circuit. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Which of the following would make the best filter for a power supply? </question>
+<option1>a. A capacitor in series </option1>
+<option2>b. A choke in series </option2>
+<option3>c. A capacitor in series and a choke in parallel </option3>
+<option4>d. A capacitor in parallel and a choke in series </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> If you need exceptionally good ripple filtering for a power supply, which of the following alternatives will yield the best results? </question>
+<option1>a. Connect several capacitors in parallel. </option1>
+<option2>b. Use a choke-input filter. </option2>
+<option3>c. Connect several chokes in series. </option3>
+<option4>d. Use two capacitor/choke filtering sections in cascade. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Voltage regulation can be accomplished by a Zener diode connected in </question>
+<option1>a. parallel with the filter output, forward-biased </option1>
+<option2>b. parallel with the filter output, reversed-biased. </option2>
+<option3>c. series with the filter output, forward-biased. </option3>
+<option4>d. series with the filter output, reverse-biased. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A current surge takes place when a power supply is first turned on because </question>
+<option1>a. the transformer core is suddenly magnetized. </option1>
+<option2>b. the diodes suddenly start to conduct. </option2>
+<option3>c. the filter capacitor(s) must be initially charged. </option3>
+<option4>d. arcing takes place in the power switch. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Transient suppression is of importance mainly because it minimizes the risk of </question>
+<option1>a. diode failure. </option1>
+<option2>b. transformer imbalance. </option2>
+<option3>c. filter capacitor overcharging. </option3>
+<option4>d. poor voltage regulation. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> If a fuse blows, and it is replaced with one having a lower current rating, there is a good chance that </question>
+<option1>a. the power supply will be severly damaged. </option1>
+<option2>b. the diodes will not rectify. </option2>
+<option3>c. the fuse will blow out right away. </option3>
+<option4>d. transient suppressors won't work. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Suppose you see a fuse with nothing but a straight wire inside. You can assume that this fuse </question>
+<option1>a. is a slow-blow type. </option1>
+<option2>b. is a quick-break type. </option2>
+<option3>c. has a low current rating. </option3>
+<option4>d. has a high current rating. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> In order to minimize the risk of diode destruction as a result of surge currents that can occur when a power supply is first switched on, which of the following techniques can be useful? </question>
+<option1>a. Connecting multiple diodes in parallel, with low-value resistors in series with each diode </option1>
+<option2>b. Connecting multiple diodes in parallel, with low-value capacitors in series with each diode </option2>
+<option3>c. Connecting multiple diodes in series, with low-value chokes across each diode </option3>
+<option4>d. Connecting multiple diodes in series, with low-value resistors across each diode </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> To repair a damaged power supply with which you are not completely familiar, you should </question>
+<option1>a. install bleeder resistors before beginning your work. </option1>
+<option2>b. remove the fuse before beginning your work. </option2>
+<option3>c. leave it alone and have a professional work on it. </option3>
+<option4>d. short out all the diodes before beginning your work. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> In a PNP circuit, the collector </question>
+<option1>a. has an arrow poiting inward. </option1>
+<option2>b. is positive with respect to the emitter. </option2>
+<option3>c. is biased at a small fraction of the base bias. </option3>
+<option4>d. is negative with respect to the emitter. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> In many cases, a PNP transistor can be replaced with an NPN device and the circuit will do the same thing, provided that </question>
+<option1>a. the power supply or battery polarity is reversed. </option1>
+<option2>b. the collector and emitter leads are interchanged. </option2>
+<option3>c. the arrow is pointing inward. </option3>
+<option4>d. Forget it! A PNP transistor can never be replaced with an NPN transistor. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A bipolar transistor has </question>
+<option1>a. three P-N junctions. </option1>
+<option2>b. three semiconductor layers. </option2>
+<option3>c. two N-type layers around a P-type layer. </option3>
+<option4>d. a low avalanche voltage. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> In the dual-diode model of an NPN transistor, the emitter corresponds to </question>
+<option1>a. the point where the cathodes are connected together. </option1>
+<option2>b. the point where the cathode of one diode is connected to the anode of the other. </option2>
+<option3>c. the point where the anodes are connected together.</option3>
+<option4>d. either of the diode cathodes. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> The current through a transistor depends on </question>
+<option1>a. Ec. </option1>
+<option2>b. Eb relative to Ec. </option2>
+<option3>c. Ib. </option3>
+<option4>d. more than one of the above. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> With no signal input, a bipolar transistor would have the least Ic when </question>
+<option1>a. the emitter is grounded. </option1>
+<option2>b. the E-B junction is forward-biased. </option2>
+<option3>c. the E-B junction is reverse-biased. </option3>
+<option4>d. the E-B current is high. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> When a transistor is conducting as much as it can, it is said to be </question>
+<option1>a. in a state of cutoff. </option1>
+<option2>b. in a state of saturation. </option2>
+<option3>c. in state of reverse bias. </option3>
+<option4>d. in a state of avalanche breakdown. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> In a common emitter circuit, the gain bandwidth product is </question>
+<option1>a. the frequency at which the gain is 1. </option1>
+<option2>b. the frequency at which the gain is 0.707 times its value at 1MHz. </option2>
+<option3>c. the frequency at which the gain is greatest. </option3>
+<option4>d. the difference between the frequency at which the gain is greatest, and the frequency at which the gain is 1. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The bipolar-transistor configuration most often used for matching a high input impedance to a low output impedance puts signal ground at </question>
+<option1>a. the emitter. </option1>
+<option2>b. the base. </option2>
+<option3>c. the collector. </option3>
+<option4>d. any point; it doesn't matter. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> The output is in phase with the input in </question>
+<option1>a. a common emitter circuit. </option1>
+<option2>b. a common base circuit. </option2>
+<option3>c. a common collector circuit. </option3>
+<option4>d. more than one of the above. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> The greatest possible amplification is obtained in </question>
+<option1>a. a common emitter circuit. </option1>
+<option2>b. a common base circuit. </option2>
+<option3>c. a common collector circuit. </option3>
+<option4>d. more than one of the above. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> The input is applied to the collector in </question>
+<option1>a. a common emitter circuit. </option1>
+<option2>b. a common base circuit. </option2>
+<option3>c. a common collector circuit. </option3>
+<option4>d. none of the above. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> The configuration noted for its stability in RF power amplifiers is the </question>
+<option1>a. common emitter circuit. </option1>
+<option2>b. common base circuit. </option2>
+<option3>c. common collector circuit. </option3>
+<option4>d. emitter follower circuit. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> In a common base circuit, the output is taken from </question>
+<option1>a. the emitter. </option1>
+<option2>b. the base. </option2>
+<option3>c. the collector. </option3>
+<option4>d. more than on of the above. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Suppose that the input signal to a transistor amplifier results in saturation during part of the cycle. This produces </question>
+<option1>a. the greatest possible amplification. </option1>
+<option2>b. reduced efficiency. </option2>
+<option3>c. avalanche effect. </option3>
+<option4>d. nonlinear output impedance. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> The current through the channel of a JFET is directly affected by all of the following, except the </question>
+<option1>a. drain voltage. </option1>
+<option2>b. transconductance. </option2>
+<option3>c. gate voltage. </option3>
+<option4>d. gate bias. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> In an N-channel JFET, pinchoff occures when the gate bias is </question>
+<option1>a. small and positive. </option1>
+<option2>b. zero. </option2>
+<option3>c. small and negative. </option3>
+<option4>d. large and negative. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> The current consists mainly of holes when a JFET </question>
+<option1>a. has a P-type channel. </option1>
+<option2>b. is forward-biased. </option2>
+<option3>c. is zero-biased. </option3>
+<option4>d. is reverse-biased. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A JFET might work better than a bipolar transistor in </question>
+<option1>a. a high-voltage rectififier. </option1>
+<option2>b. a weak-signal RF amplifier. </option2>
+<option3>c. a power-supply filter. </option3>
+<option4>d. a power transformer. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> In a P-channel JFET, </question>
+<option1>a. the drain is forward-biased. </option1>
+<option2>b. the source-gate juction is forward-biased. </option2>
+<option3>c. the drain is negative relative to the source. </option3>
+<option4>d. the gate must be at dc ground. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A JFET is sometimes biased at or beyond pinchoff in </question>
+<option1>a. a power amplifier. </option1>
+<option2>b. a rectifier. </option2>
+<option3>c. a filter. </option3>
+<option4>d. a weak-signal amplifier. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> The gate of JFET exhibits a </question>
+<option1>a. forward bias. </option1>
+<option2>b. high impedance. </option2>
+<option3>c. low reverse resistance. </option3>
+<option4>d. low avalanche voltage. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Which of the following conditions is not normally desirable in a JFET? </question>
+<option1>a. A conducting channel </option1>
+<option2>b. Holes as the majority carriers </option2>
+<option3>c. A forward-biased P-N junction </option3>
+<option4>d. A high input impedance </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> When a JFET is pinched off, </question>
+<option1>a. the value of dI(D)/dE(G) is very large with no signal input. </option1>
+<option2>b. the value of dI(D)/dE(G) might vary considerably with no signal input. </option2>
+<option3>c. the value of dI(D)/dE(G) is negative with no signal input. </option3>
+<option4>d. the value of dI(D)/dE(G) is zero with no signal input. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Transconductance is the ratio of </question>
+<option1>a. a change in drain voltage to a change in source voltage. </option1>
+<option2>b. a change in drain current to a change in gate voltage. </option2>
+<option3>c. a change in gate current to a change in source voltage. </option3>
+<option4>d. a change in drain current to a change in drain voltage. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Characteristic curves for JFETs generally show </question>
+<option1>a. drain voltage as a function of source current. </option1>
+<option2>b. drain current as a function of gate current. </option2>
+<option3>c. drain current as a function of drain voltage. </option3>
+<option4>d. drain voltage as a functin of gate current. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A disadvantage of MOS components is the fact that </question>
+<option1>a. they can be easily damaged by static electricity. </option1>
+<option2>b. they need a high input voltage in order to amplify. </option2>
+<option3>c. they draw large amounts of current. </option3>
+<option4>d. they produce a great deal of heat. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> The input impedance of a MOSFET is </question>
+<option1>a. lower than that of a JFET. </option1>
+<option2>b. lower than that of a bipolar transistor. </option2>
+<option3>c. between that of a bipolar transistor and a JFET. </option3>
+<option4>d. extremely high. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A significant difference between MOSFETs and JFETs is the fact that </question>
+<option1>a. MOSFETs can handle a wider range of gate bias voltages. </option1>
+<option2>b. MOSFETs can deliver greater output power. </option2>
+<option3>c. MOSFETs are more rugged. </option3>
+<option4>d. MOSFETs last longer. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The channel in a zero-biased JFET is normally </question>
+<option1>a. pinched off. </option1>
+<option2>b. in a state of avalanche breakdown. </option2>
+<option3>c. in a conducting state. </option3>
+<option4>d. made of P-type semiconductor material. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> When an enhancement-mode MOSFET is at zero bias, </question>
+<option1>a. the drain current is high with no signal. </option1>
+<option2>b. the drain current fluctuates with no signal. </option2>
+<option3>c. the drain current is low with no signal. </option3>
+<option4>d. the drain current is zero with no signal. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> An enchancement-mode MOSFET can be recognized in schematic diagrams by the presence of </question>
+<option1>a. an arrow pointing inward. </option1>
+<option2>b. a broken vertical line inside the circle. </option2>
+<option3>c. an arrow pointing outward. </option3>
+<option4>d. a solid vertical line inside the circle. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> In a source follower, which of the electrodes receives the input signal? </question>
+<option1>a. Any of them (doesn't matter) </option1>
+<option2>b. The source </option2>
+<option3>c. The gate </option3>
+<option4>d. The drain </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Which of the following circuits produces an output signal wave that is 180 deg out of phase with the input signal wave? </question>
+<option1>a. The common source circuit </option1>
+<option2>b. The common gate circuit </option2>
+<option3>c. The common drain circuit </option3>
+<option4>d. All of the above </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Which of the following circuits can produce the greatest signal gain (amplification factor)? </question>
+<option1>a. The common source circuit </option1>
+<option2>b. The common gate circuit </option2>
+<option3>c. The common drain circuit </option3>
+<option4>d. All of the above circuits can amplify to the same extent. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> The decibel is a unit of </question>
+<option1>a. relative signal strength. </option1>
+<option2>b. voltage. </option2>
+<option3>c. power. </option3>
+<option4>d. current. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> An oscilator at RF requires the use of </question>
+<option1>a. a common drain or common collector circuit. </option1>
+<option2>b. a stage with gain. </option2>
+<option3>c. a tapped coil. </option3>
+<option4>d. a quartz crystal. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Suppose a circuit is found to have a gain figure of -15 dB. which of the following statements is true? </question>
+<option1>a. The output signal is stronger than the input signal. </option1>
+<option2>b. The input signal is stronger than the output signal. </option2>
+<option3>c. The input signal is 15 times as strong as the output signal. </option3>
+<option4>d. the output signal is 15 times as strong as the input signal. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> In an oscillator circuit, the feedback should be </question>
+<option1>a. as great as possible. </option1>
+<option2>b. kept to a minimum. </option2>
+<option3>c. just enough to sustain oscillation. </option3>
+<option4>d. done through a transformer whose wire can be switched easily. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> An RF choke </question>
+<option1>a. passes RF signals but blocks dc. </option1>
+<option2>b. passes both RF signals and dc. </option2>
+<option3>c. passes dc but blocks RF signals. </option3>
+<option4>d. blocks both dc and RF signals. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> The optimum capacitance values in an amplifier circuit depend on </question>
+<option1>a. the power-supply voltage. </option1>
+<option2>b. the power-supply polarity. </option2>
+<option3>c. the input signal strength. </option3>
+<option4>d. the input signal frequency. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> An oscillator might fail to start for any of the following reasons, except </question>
+<option1>a. low battery voltage. </option1>
+<option2>b. low stage gain. </option2>
+<option3>c. in-phase feedback. </option3>
+<option4>d. a high-impedance load. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> In which of the following FET amplifier types does drain current flow for exactly 50 percent of the signal cycle? </question>
+<option1>a. Class A </option1>
+<option2>b. Class AB1 </option2>
+<option3>c. Class AB2 </option3>
+<option4>d. Class B </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> The frequency at which a quartz crystal oscillator produces energy is largely dependent on </question>
+<option1>a. the load impedance. </option1>
+<option2>b. the physical thickness of the quartz wafer. </option2>
+<option3>c. the amount of resistance through the crystal. </option3>
+<option4>d. the power-supply voltage. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Which bipolar amplifier type has some distortion in the signal wave, with the collector current during most, but not all, of the cycle? </question>
+<option1>a. Class A </option1>
+<option2>b. Class AB1 </option2>
+<option3>c. Class AB2 </option3>
+<option4>d. Class B </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> An RF oscillator usually </question>
+<option1>a. produces an output signal with an irregular waveshape. </option1>
+<option2>b. has most or all of its energy at a single frequency. </option2>
+<option3>c. produces a sound that depends on its waveform. </option3>
+<option4>d. employs an RC circuit to determine the output amplitude. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A class C amplifier can be made linear by </question>
+<option1>a. reducing the bias. </option1>
+<option2>b. increasing the drive. </option2>
+<option3>c. using two transistors in push-pull. </option3>
+<option4>d. no means; a class C amplifier is always nonlinear. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A frequency synthesizer has </question>
+<option1>a. high power output. </option1>
+<option2>b. high frequency drift rate. </option2>
+<option3>c. exceptional stability. </option3>
+<option4>d. an adjustable waveshape. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A graphic equalizer is a form of </question>
+<option1>a. bias control for an NPN bipolar transistor. </option1>
+<option2>b. gain control for an RF oscillator. </option2>
+<option3>c. tone control that can be used in an audio amplifier. </option3>
+<option4>d. circuit for adjusting the waveform of an RF oscillator. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> If the impedance of the load connected to the output of an oscillator is extremely high, </question>
+<option1>a. the frequency will drift excessively. </option1>
+<option2>b. the power output will be reduced. </option2>
+<option3>c. the oscillator might fail to start. </option3>
+<option4>d. it is no cause for concern; in fact, it is a good thing. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A tuned RF PA must always be </question>
+<option1>a. set to work over a wide range of frequencies. </option1>
+<option2>b. adjusted for maximum power output. </option2>
+<option3>c. operated at an even harmonic of the input frequency. </option3>
+<option4>d. operated in class C. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Class B amplification can be used to obtain low distortion for audio applications </question>
+<option1>a. by connecting two amplifiers in cascade, thereby maximizing the gain and generating a pure sine wave output. </option1>
+<option2>b. by biasing the bipolar transistor or FET beyond cutoff or pinchoff, thereby ensuring that the output is in phase with the input. </option2>
+<option3>c. by connecting two identical bipolar transistors or FETs, biased exactly at cutoff or pinchoff, in a push-pull configuration. </option3>
+<option4>d. by biasing the bipolar transistor or FET in the middle of the straight-line portion of the charateristic curve. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The reflected wave </question>
+<option1>a. arrives in phase with the direct wave. </option1>
+<option2>b. arrives out of phase with the direct wave. </option2>
+<option3>c. arrives in a variable phase compared with the direct wave. </option3>
+<option4>d. is always horizontally polarized. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> An advantage of FSK over on/off keying is the fact that FSK </question>
+<option1>a. offers better frequency stability. </option1>
+<option2>b. can provide faster data rates. </option2>
+<option3>c. reduces the number of receiving errors. </option3>
+<option4>d. Forget it! On-off keying is just as good as FSK. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The highest layer of the ionosphere is </question>
+<option1>a. the D layer. </option1>
+<option2>b. the E layer. </option2>
+<option3>c. the F layer. </option3>
+<option4>d. none of the above. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> An LSB, suppressed-carrier signal can be demodulated by </question>
+<option1>a. an envelope detector. </option1>
+<option2>b. a diode. </option2>
+<option3>c. a ratio detector. </option3>
+<option4>d. a product detector. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Which of the following modes is used to send image data over telephone lines? </question>
+<option1>a. On/Off keying </option1>
+<option2>b. Fax </option2>
+<option3>c. AM </option3>
+<option4>d. Product detection </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> The S/N ratio is a measure of </question>
+<option1>a. the sensitivity of a receiver. </option1>
+<option2>b. the selectivity of a receiver. </option2>
+<option3>c. the dynamic range of a receiver. </option3>
+<option4>d. the efficiency of a transmitter. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A receiver that responds to a desired signal, but not to another signal very close by in frequency, has good </question>
+<option1>a. sensitivity. </option1>
+<option2>b. noise figure. </option2>
+<option3>c. dynamic range. </option3>
+<option4>d. selectivity. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Fill in the black in the following sentence to make it true: "The deviation of a narrowband voice FM signal normally extends up to ____ either side of the unmodulated-carrier frequency." </question>
+<option1>a. 3 kHz </option1>
+<option2>b. 5 kHz </option2>
+<option3>c. 10 kHz</option3>
+<option4>d. 3 Mhz </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> An FM detector with built-in limiting is </question>
+<option1>a. a ratio detector. </option1>
+<option2>b. a discriminator. </option2>
+<option3>c. an envelope detector. </option3>
+<option4>d. a product detector. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> In which mode of PM does the peak power level of the pulses vary? </question>
+<option1>a. PAM </option1>
+<option2>b. PDM </option2>
+<option3>c. PIM </option3>
+<option4>d. PFM </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A continuously variable signal (such as music audio) can be recovered from a signal having only a few discrete level or states by means of </question>
+<option1>a. a ratio detector. </option1>
+<option2>b. a D/A converted. </option2>
+<option3>c. a product detector. </option3>
+<option4>d. an enveloped detector. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> In which mode are signals intertwined in the time domain at the transmitter, and then separated again at the receiver? </question>
+<option1>a. FDM </option1>
+<option2>b. AFSK </option2>
+<option3>c. PCM </option3>
+<option4>d. None of the above </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Which of the following modes can be demodulated with an envelop detector? </question>
+<option1>a. AM </option1>
+<option2>b. CW </option2>
+<option3>c. FSK </option3>
+<option4>d. USB </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> The bandwidth of a fax signal is kept narrow by </question>
+<option1>a. sending the data at a slow rate of speed. </option1>
+<option2>b. maximizing the number of digital states. </option2>
+<option3>c. optimizing the range of colors sent. </option3>
+<option4>d. using pulse modulation. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The dynamic range in a superhet is largely influenced by the performance of the </question>
+<option1>a. local osicallator. </option1>
+<option2>b. product detector. </option2>
+<option3>c. front end. </option3>
+<option4>d. selectivity in the IF chain. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Frequency sweeping can be used to get a transmitter to produce </question>
+<option1>a. spread-spectrum signals. </option1>
+<option2>b. time division multiplexed signals. </option2>
+<option3>c. narrowband AM signals. </option3>
+<option4>d. double sideband, suppressed carrier signals. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Fill in the blank to make the following sentence true: "The reception of ____ can be improved by the use of DSP." </question>
+<option1>a. SSB signals </option1>
+<option2>b. SSTV signals </option2>
+<option3>c. synchronized communications signals </option3>
+<option4>d. any of the above </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Suppose inverters are placed in series with both inputs of an AND gate. Under what conditions is the output of the resulting black box high? </question>
+<option1>a. If and only if both inverter inputs are high </option1>
+<option2>b. If and only if both inverter inputs are low </option2>
+<option3>c. If and only if one inverter iinput is high and the other is low </option3>
+<option4>d. Under no conditions (the output is always low) </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Suppose an AND gate is followed by an inverter. Under what conditions is the output of the resulting black box low? </question>
+<option1>a. If and only if both inputs are high </option1>
+<option2>b. If and only if both inputs are low </option2>
+<option3>c. If and only if one input is high and the other is low </option3>
+<option4>d. Under no conditions (the output is always high) </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> What is the binary equivalent of decimal 29? </question>
+<option1>a. 10101 </option1>
+<option2>b. 11101 </option2>
+<option3>c. 10111 </option3>
+<option4>d. 11011 </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> In Boolean algebra, addition represents </question>
+<option1>a. the logical NOT operation. </option1>
+<option2>b. the logical AND operation. </option2>
+<option3>c. the logical OR operation. </option3>
+<option4>d. the logical NAND operation. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> If the output to a logical inverter is low, it means that </question>
+<option1>a. both of the two inputs are high. </option1>
+<option2>b. both of the two inputs are low. </option2>
+<option3>c. the single input is high. </option3>
+<option4>d. the single input is low. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> The output of an AND gate is high if and only if </question>
+<option1>a. one input is high and the others are low. </option1>
+<option2>b. one input is low and the others are high. </option2>
+<option3>c. any of the inputs is low. </option3>
+<option4>d. all inputs are high. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> DeMorgan's Theorem states that, for all logical statements X and Y, </question>
+<option1>a. -(X*Y) is equivalent to X+Y. </option1>
+<option2>b. X*Y is equivalent to -(X+Y). </option2>
+<option3>c. (-X)+(-Y) is equivalent to X*Y. </option3>
+<option4>d. (-X)+(-Y) is equivalent to -(X*Y). </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> If you see a number represented by FF in the documentation for an electronic circuit or system, you can be certain that the number is </question>
+<option1>a. radix 16. </option1>
+<option2>b. radix 10. </option2>
+<option3>c. radix 8. </option3>
+<option4>d. radix 2. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Which of the following codes is digital? </question>
+<option1>a. Morse </option1>
+<option2>b. Baudot </option2>
+<option3>c. ASCII </option3>
+<option4>d. All of the above </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Which of the following voltages could normally represent a 1 in positive logic? </question>
+<option1>a. 0.0 V </option1>
+<option2>b. +0.5 V</option2>
+<option3>c. +5 V </option3>
+<option4>d. +50 V </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Which of the following voltages might normally represent a 1 in negative logic? </question>
+<option1>a. 0.0 V </option1>
+<option2>b. +12 V </option2>
+<option3>c. +5 V</option3>
+<option4>d. +50 V </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> FIll in the blanks to make the following sentence true: "____ data transmission refers to digital bits set along a single line, one bit after another." </question>
+<option1>a. Serial </option1>
+<option2>b. Synchronous </option2>
+<option3>c. Parallel </option3>
+<option4>d. Analog </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> The inputs of an R-S flip-flop are known as </question>
+<option1>a. low and high. </option1>
+<option2>b. octal and binary. </option2>
+<option3>c. synchronous and asynchronous. </option3>
+<option4>d. reset and set. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> When both inputs of an R-S flip-flop are 0, </question>
+<option1>a. the outputs stay as they are. </option1>
+<option2>b. Q = 0 and -Q = 1. </option2>				
+<option3>c. Q = 1 and -Q = 0. </option3>
+<option4>d. the resulting outputs can be absurd. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> The fifth digit from the right in a binary number carries which decimal value? </question>
+<option1>a. 64 </option1>
+<option2>b. 32 </option2>
+<option3>c. 24 </option3>
+<option4>d. 16 </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> What is the largest possible radix 10 number that can be represented as a six-digit binary number? </question>
+<option1>a. Decimal 256 </option1>
+<option2>b. Decimal 128 </option2>
+<option3>c. Decimal 64 </option3>
+<option4>d. Decimal 63 </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> If one of the inputs to a two-input NOR gate is high, what is the output state? </question>
+<option1>a. There is not enough information to tell. </option1>
+<option2>b. Low </option2>
+<option3>c. High </option3>
+<option4>d. It depends on the state of the other input. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Suppose a logic circuit has four inputs W, X, Y, and Z. How many possible input combination are ther? </question>
+<option1>a. 4 </option1>
+<option2>b. 8 </option2>
+<option3>c. 16 </option3>
+<option4>d. 32 </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> In a JFET, the control electrode is usually the </question>
+<option1>a. source. </option1>
+<option2>b. emitter. </option2>
+<option3>c. drain. </option3>
+<option4>d. gate. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A diode can be used as a frequency multiplier because of its </question>
+<option1>a. junction capacitance </option1>
+<option2>b. nonlinearity. </option2>
+<option3>c. avalanche voltage. </option3>
+<option4>d. forward breakover. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Which of the following is not a common form of data transmission? </question>
+<option1>a. Polarization modulation </option1>
+<option2>b. Frequency modulation </option2>
+<option3>c. Amplitude modulation </option3>
+<option4>d. Phase modulation </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A very brief, high-voltage spike on an ac power line is called </question>
+<option1>a. a bleeder. </option1>
+<option2>b. an arc. </option2>
+<option3>c. a transient. </option3>
+<option4>d. an avalanche. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Which of the following is not characteristic of an oscillator? </question>
+<option1>a. Negative feedback </option1>
+<option2>b. Good output-to-input coupling </option2>
+<option3>c. Reasonably high resistor gain </option3>
+<option4>d. Alternating current signal output </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Which layer of the ionoshpere exists at the lowest altitude? </question>
+<option1>a. The F layer </option1>
+<option2>b. The E layer </option2>
+<option3>c. The D layer </option3>
+<option4>d. The C layer </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> The beta of a bipolar transistor is another name for its </question>
+<option1>a. current amplification factor. </option1>
+<option2>b. voltage amplification factor. </option2>
+<option3>c. power amplification factor. </option3>
+<option4>d. maximum amplification factor. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> In a schematic diagram, the symbol for a PNP bipolar transistor can be recognized by </question>
+<option1>a. a broken vertical line inside the symbol circle. </option1>
+<option2>b. an arrow inside the symbol circle, pointing from the base towerd the emitter. </option2>
+<option3>c. an arrow inside the symbol circle, pointing outward from the collector. </option3>
+<option4>d. an arrow inside the symbol circle, pointing from the emitter toward the base. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Fill in the blank in the following sentence to make it true: "In an oscillator, ____ is an expression of the extent to which the circuit maintains constant signal frequency output under variable operating conditions, and is also an expression of its overall reliability." </question>
+<option1>a. sensitivity </option1>
+<option2>b. drift ratio </option2>
+<option3>c. gain </option3>
+<option4>d. stability </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A Zener diode would most likely be found in </question>
+<option1>a. the mixer in a superheterodyne receiver. </option1>
+<option2>b. the PLL in a circuit for detecting FM. </option2>
+<option3>c. the product detector in a receiver for SSB. </option3>
+<option4>d. the voltage regulator in a power supply. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> When the bias in an FET stops the flow of current, the condition is called </question>
+<option1>a. forward breakover. </option1>
+<option2>b. cutoff. </option2>
+<option3>c. reverse bias. </option3>
+<option4>d. pinchoff. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> The VA rating of a transformer is an expression of </question>
+<option1>a. the maximum frequency at which it can function. </option1>
+<option2>b. the type of core material it has. </option2>
+<option3>c. the voltage step-up or step-down ratio. </option3>
+<option4>d. none of the above. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> In an N-type semiconductor, the minority carriers are </question>
+<option1>a. electrons. </option1>
+<option2>b. protons. </option2>
+<option3>c. holes. </option3>
+<option4>d. neutrons. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A disadvantage of a half-wave rectifier is the fact that </question>
+<option1>a. the output voltage is excessive compared to that of a full-wave rectifier. </option1>
+<option2>b. the output current is excessive compared to that of a full-wave rectifier. </option2>
+<option3>c. the output waveform is harder to filter than is the case with a full-wave rectifier. </option3>
+<option4>d. it requires several expensive diodes, whereas a full-wave rectifier requires only a single cheap diode. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A common base circuit is commonly employed as </question>
+<option1>a. a microwave oscillator. </option1>
+<option2>b. a low-pass filter. </option2>
+<option3>c. a noise generator. </option3>
+<option4>d. an RF power amplifier. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A semiconductor material especially noted for its photoconductivity, and which is often used in making photocells, is </question>
+<option1>a. selenium. </option1>
+<option2>b. lithium salt. </option2>
+<option3>c. copper chloride. </option3>
+<option4>d. aluminum oxide. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Which type of PA circuit provides the highest efficiency when used with the appropriate amount of driving power? </question>
+<option1>a. Class A </option1>
+<option2>b. Class AB </option2>
+<option3>c. Class B </option3>
+<option4>d. Class C </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Baudot is a form of </question>
+<option1>a. video modulation. </option1>
+<option2>b. diode. </option2>
+<option3>c. digital code. </option3>
+<option4>d. voice modulation. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> The most stable type of oscillator circuit uses </question>
+<option1>a. a tapped coil. </option1>
+<option2>b. a split capacitor. </option2>
+<option3>c. negative feedback. </option3>
+<option4>d. a quartz crytal. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> If the source-gate junction in an FET conducts, </question>
+<option1>a. it is a sign of improper bias. </option1>
+<option2>b. the device will work in class C. </option2>
+<option3>c. the device will oscillate. </option3>
+<option4>d. the device will work in class A. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> What is the radix of the octal number system? </question>
+<option1>a. 2 </option1>
+<option2>b. 2^2 </option2>
+<option3>c. 2^3 </option3>
+<option4>d. 2^4 </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Signal-to-noise ratio (S/N) is often specified when stating </question>
+<option1>a. the selectivity of a receiver. </option1>
+<option2>b. the stability of an oscillator. </option2>
+<option3>c. the modulation coefficient of a transmitter. </option3>
+<option4>d. the sensitivity of a receiver. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> In a reverse-biased semiconductor diode, the junction capacitance depends on </question>
+<option1>a. the width of the depletion region. </option1>
+<option2>b. the reverse current. </option2>
+<option3>c. the P:N ratio. </option3>
+<option4>d. the gate bias. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A simple power supply filter can be built with </question>
+<option1>a. a capacitor in series with the dc output. </option1>
+<option2>b. an inductor in parallel with the dc output. </option2>
+<option3>c. a rectifier in parallel with the dc output</option3>
+<option4>d. a capacitor in parallel with the dc output. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Which of the following bipolar transistor circuits can, in theory, provide most amplification? </question>
+<option1>a. Common emitter </option1>
+<option2>b. Common base </option2>
+<option3>c. Common collector </option3>
+<option4>d. Common gate </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> The ratio of the difference in Ic to the difference in Ib that occurs when a small signal is applied to the base of a bipolar transistor is called the </question>
+<option1>a. static current amplification. </option1>
+<option2>b. dynamic current amplification. </option2>
+<option3>c. power factor. </option3>
+<option4>d. efficiency. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> An example of a device that is commonly used as an oscillator at microwave frequencies is </question>
+<option1>a. a rectifier diode. </option1>
+<option2>b. a weak-signal diode. </option2>
+<option3>c. a Gunn diode. </option3>
+<option4>d. a Zener diode. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> In the operation of a PNP bipolar transistor, which of the following is normal concerning the emitter and collector voltages? </question>
+<option1>a. The collector is positive relative to the emitter. </option1>
+<option2>b. The collector is at the same voltage as the emitter. </option2>
+<option3>c. The collector is negative relative to the emitter. </option3>
+<option4>d. The collector can be either positive or negative relative to the emitter. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> What can be done to minimize the capacitance of the P-N junction in a semiconductor diode, thereby making the component effective as a high-speed RF switch? </question>
+<option1>a. The surface area of the P-N junction can be maximized. </option1>
+<option2>b. A layer of intrinsic semiconductor can be placed between the P and N-type materials. </option2>
+<option3>c. The frequency of the applied signal can be made as high as possible. </option3>
+<option4>d. The diode can be forward-biased with a high voltage. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Which type of modulation consists of one voice sideband, with a suppressed carrier? </question>
+<option1>a. AM </option1>
+<option2>b. LSB </option2>
+<option3>c. FM </option3>
+<option4>d. RTTY </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> In an AND gate, the output is high </question>
+<option1>a. if any input is high. </option1>
+<option2>b. only when all inputs are low. </option2>
+<option3>c. if any input is low. </option3>
+<option4>d. only when all inputs are high. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A voltage-controlled oscillator makes use of </question>
+<option1>a. a varactor diode. </option1>
+<option2>b. a Zener diode. </option2>
+<option3>c. negative feedback. </option3>
+<option4>d. a split capacitance. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> In an exclusive OR gate, the output is high </question>
+<option1>a. if either input is high. </option1>
+<option2>b. only when both inputs are low. </option2>
+<option3>c. if either input is low. </option3>
+<option4>d. only when the inputs have opposite logic states. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A ratio detector is a circuit for demodulating which of the following? </question>
+<option1>a. AM </option1>
+<option2>b. PM </option2>
+<option3>c. FM </option3>
+<option4>d. SSB </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Suppose there is a binary digital black box with two inputs, called X and Y, and an output called Z. If X=0 and Y=1, then Z=0. In all other instances, Z=1. Which of the following logical expressions represents the contents of the black box? </question>
+<option1>a. X + (-Y) </option1>
+<option2>b. X*(-Y) </option2>
+<option3>c. X - (*Y) </option3>
+<option4>d. X = (-Y) </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A method of modulation in which the strength of pulses varies is called </question>
+<option1>a. pulse ratio modulation. </option1>
+<option2>b. pulse position modulation. </option2>
+<option3>c. pulse frequency modulation. </option3>
+<option4>d. pulse amplitude modulation. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Boolean algebra is </question>
+<option1>a. useful for calculating amplifier gain in decibels. </option1>
+<option2>b. a useful tool in binary digital circuit design. </option2>
+<option3>c. used to calculate the value of an unknown. </option3>
+<option4>d. used with negative pulse modulation schemes. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A voltage-doubler power supply is best for use in </question>
+<option1>a. circuits that need high voltage but do not draw much current. </option1>
+<option2>b. low-voltages devices. </option2>
+<option3>c. high-current appliances</option3>
+<option4>d. all kinds of electronic equipment. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> An optoisolator consists of </question>
+<option1>a. two Zener diodes back-to-back </option1>
+<option2>b. an LED and a photodiode. </option2>
+<option3>c. two NPN transistors in series. </option3>
+<option4>d. an NPN transistors followed by a PNP transistor. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> When semiconductor is reverse-biased with a large enough voltage, it will conduct. This phenomenon is known as </question>
+<option1>a. bias effect. </option1>
+<option2>b. avalanche effect. </option2>
+<option3>c. forward breakover. </option3>
+<option4>d. saturation. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Synchronizing pulses in a conventional analog TV signal </question>
+<option1>a. keep the brightness constant. </option1>
+<option2>b. keep the contrast constant. </option2>
+<option3>c. keep the image from tearing or rolling. </option3>
+<option4>d. ensure that the colors are right. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> In an enhancement-mode MOSFET, </question>
+<option1>a. the channel conducts fully with zero gate bias. </option1>
+<option2>b. the channel conducts partially with zero gate bias. </option2>
+<option3>c. the channel conducts ac but not dc. </option3>
+<option4>d. the channel does not conduct with zero gate bias. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> In a step-up power transformer, </question>
+<option1>a. the primary voltage is more than the secondary voltage. </option1>
+<option2>b. the secondary voltage is more than the primary voltage. </option2>
+<option3>c. the primary and seconday voltages are the same. </option3>
+<option4>d. the secondary must be center-tapped. </option4>
+</challenge>
+
+
+</elecquestions>

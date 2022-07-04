@@ -1,0 +1,758 @@
+﻿<!-- This is the question xml file. Feel free to add new questions. Just add a new challenge, and include a "question", the "answer" and 4 options. Happy Coding! -->
+
+<elecquestions>
+
+<challenge answer = "3">
+<question> Which of the following can vary with ac, but never with dc? </question>
+<option1>a. Power </option1>
+<option2>b. Voltage </option2>
+<option3>c. Frequency </option3>
+<option4>d. Amplitude </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The length of time between a point in one cycle and the same point in the next cycle of an ac wave is the </question>
+<option1>a. frequency. </option1>
+<option2>b. magnitude. </option2>
+<option3>c. period. </option3>
+<option4>d. polarity. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> On a spectrum analyzer, an ac signal having only one frequency component looks like </question>
+<option1>a. a single pip. </option1>
+<option2>b. a sine wave. </option2>
+<option3>c. a square wave. </option3>
+<option4>d. a sawtooth wave. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The period of an ac wave, in seconds, is </question>
+<option1>a. the same as the frequency in hertz. </option1>
+<option2>b. not related to the frequency in any way. </option2>
+<option3>c. equal to 1 divided by the frequency in hertz. </option3>
+<option4>d. equal to the peak amplitude in volts divided bu the frequency in hertz. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A degree of phase represents </question>
+<option1>a. 6.28 cycles. </option1>
+<option2>b. 57.3 cycles. </option2>
+<option3>c. 1/60 of a cycle. </option3>
+<option4>d. 1/360 of a cycke. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A triangular wave exhibits </question>
+<option1>a. an instantaneous rise and a defined decay. </option1>
+<option2>b. a defined rise and an instantaneous decay. </option2>
+<option3>c. a defined rise and a defined deacay, and the two are equal. </option3>
+<option4>d. an instantaneous rise and an instantaneous decay. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Three-phase ac </question>
+<option1>a. Has sawtooth waves that add together in phase. </option1>
+<option2>b. consists of three sine waves in different phases. </option2>
+<option3>c. is a sine wave with exactly three harmonics. </option3>
+<option4>d. is of interest only to physicists. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> If two perfect sine waves have the same frequency and the same amplitude, but are in opposite phase, the composite wave </question>
+<option1>a. has twice the amplitude of either input wave alone. </option1>
+<option2>b. has half the amplitude of either input wave alone.</option2>
+<option3>c. is complex, but has the same frequency as the originals. </option3>
+<option4>d. has zero amplitude (that is, it does not exist), because the two input waves cancel each other out. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> If two perfect sine waves have the same frequency and the same phase, the composite wave </question>
+<option1>a. is a sine wave with an amplitude equal to the difference between the amplitudes of the two input waves. </option1>
+<option2>b. is a sine wave with an amplitude equal to the sum of the amplitude of the two original waves. </option2>
+<option3>c. is not a sine wave, but has the same frequency as the two input waves. </option3>
+<option4>d. has zero amplitude (that is, it does not exist), because the two inpt waves cancel each other out. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> In a perfect sine wave, the peak-to-peak amplitude is equal to </question>
+<option1>a. half the peak amplitude. </option1>
+<option2>b. the peak amplitude. </option2>
+<option3>c. 1.414 times the peak amplitude. </option3>
+<option4>d. twice the peak amplitude. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Which one of the following does not affect the power output available from a particular ac generator? </question>
+<option1>a. The strength of the magnet </option1>
+<option2>b. The number of turns in the coil </option2>
+<option3>c. The type of natural energy source used </option3>
+<option4>d. The speed of rotation of the coil or magnet </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> If a 175-V dc source were connected in series with the utility mains from a standard wall outlet, the result would be </question>
+<option1>a. smooth dc at a constant voltage. </option1>
+<option2>b. pure ac with equal peak voltages.</option2>
+<option3>c. ac with one peak voltage greater than the other. </option3>
+<option4>d. flucttuating dc. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> An advantage of ac over dc in utility applications is the fact that </question>
+<option1>a. ac is easier to transform from one voltage to another. </option1>
+<option2>b. ac is transmitted with lower loss in wires. </option2>
+<option3>c. ac can be easily obtained from dc generators. </option3>
+<option4>d. ac can be generated with less-dangerous by products. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> An inductor works by </question>
+<option1>a. charging a piece of wire. </option1>
+<option2>b. storing energy as a magnetic field. </option2>
+<option3>c. choking off dc. </option3>
+<option4>d. introducing resistance into a circuit. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Which of the following does not affect the inductance of an air-core coil, if all other factors are held constant? </question>
+<option1>a. The frequency</option1>
+<option2>b. The number of turns </option2>
+<option3>c. The diameter of the coil </option3>
+<option4>d. the lenght of coil </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> In a small inductance </question>
+<option1>a. energy is stored and released slowly. </option1>
+<option2>b. the current flow is always large. </option2>
+<option3>c. the current flow is always small. </option3>
+<option4>d. energy is stored and released quickly. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A ferromagnetic core is placed in an inductor mainly to </question>
+<option1>a. increase the current carrying capacity. </option1>
+<option2>b. increase the inductance. </option2>
+<option3>c. limit the current. </option3>
+<option4>d. reduce the inductance. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Inductors in series, assuming there is no mutual inductance, combine </question>
+<option1>a. like resistors in parallel. </option1>
+<option2>b. like resistors in series. </option2>
+<option3>c. like batteries in series with opposite polarities. </option3>
+<option4>d. in a way unlike any other typer of component. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> With permeability tuning, moving the core further into a solenoid coil </question>
+<option1>a. increases the inductance. </option1>
+<option2>b. reduces the inductance. </option2>
+<option3>c. has no effect on the inductance, but increases the current- carrying capacity of the coil. </option3>
+<option4>d. raises the frequency. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A significant advantage, in some situations, of a toroidal coil over a solenoid is the fact that </question>
+<option1>a. the toroid is easier to wind. </option1>
+<option2>b. the solenoid cannot carry as much current. </option2>
+<option3>c. the toroid is easier to tune. </option3>
+<option4>d. the magnetic flux in a toroid is practically all within the core. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A major feature of a pot core inductor is </question>
+<option1>a. high current capacity. </option1>
+<option2>b. large inductance in small volume. </option2>
+<option3>c. excellent efficiency at vey high frequencies. </option3>
+<option4>d. ease of inductance adjustment. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> As an inductor core material, air </question>
+<option1>a. has excellent efficiency. </option1>
+<option2>b. has high permeability. </option2>
+<option3>c. allows large inductance to exist in a small volume. </option3>
+<option4>d. has permeability that can vary over a wide range. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> At a frequency of 400 Hz, which is in the AF range, the most likely form for an inductor would be </question>
+<option1>a. air-core. </option1>
+<option2>b. solenoid. </option2>
+<option3>c. toroidal. </option3>
+<option4>d. transmission-line. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> At a frequency of 95.7 MHz, which is in the frequency-modulation (FM) broadcast band and is considered part of the very high frequency (VHF) radio spectrum, a good form for an inductor would be </question>
+<option1>a. air-core. </option1>
+<option2>b. pot-core. </option2>
+<option3>c. either (a) or (b). </option3>
+<option4>d. neither (a) or (b). </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Capacitance acts to store electrical energy as </question>
+<option1>a. current. </option1>
+<option2>b. voltage. </option2>
+<option3>c. a magnetic field. </option3>
+<option4>d. an electric field. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> As capacitor plate area increases, all other things being equal, </question>
+<option1>a. the capacitance increases. </option1>
+<option2>b. the capacitance deacreases. </option2>
+<option3>c. the capacitance does not change. </option3>
+<option4>d. the current-handling ability deacreases. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> As the spacing between plates in a capacitor is made smaller, all other things being equal, </question>
+<option1>a. the capacitance increases. </option1>
+<option2>b. the capacitance deacreases. </option2>
+<option3>c. the capacitance does not change. </option3>
+<option4>d. the resistance increases. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A material with a high dielectric constant </question>
+<option1>a. acts to increase capacitance per unit volume. </option1>
+<option2>b. acts to deacrease capacitance per unit volume. </option2>
+<option3>c. has no effect on capacitance. </option3>
+<option4>d. causes a capacitor to become polarized. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The main advantage of air as a dielectric material for capacitors is the fact that it </question>
+<option1>a. has a high dielectric constant. </option1>
+<option2>b. is not physically dense. </option2>
+<option3>c. has low loss. </option3>
+<option4>d. alows for large capacitance in a small volume. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Which of the following is not a characteristic of mica capacitors? </question>
+<option1>a. Excellent efficiency </option1>
+<option2>b. Small size, even for large values of capacitance </option2>
+<option3>c. High voltage-handling capacity </option3>
+<option4>d. Low loss </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Which of the following capacitance values is most typical of a disk-ceramic capacitor? </question>
+<option1>a. 100 pF </option1>
+<option2>b. 33 uF </option2>
+<option3>c. 470 uF </option3>
+<option4>d. 10,000 uF</option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Which of the following capacitance values is most typical of a paper capacitor? </question>
+<option1>a. 0.001 pF </option1>
+<option2>b. 0.01 uF </option2>
+<option3>c. 100 uF </option3>
+<option4>d. 3300 uF </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Which of the following capacitance ranges is most typical of an air-variable capacitor? </question>
+<option1>a. 0.01 uF to 1 uF </option1>
+<option2>b. 1 uF to 100 uF </option2>
+<option3>c. 1 pF to 100 pF </option3>
+<option4>d. 0.001 pF to 0.1 pF </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Which of the following types of capacitors is polarized? </question>
+<option1>a. Paper </option1>
+<option2>b. Mica </option2>
+<option3>c. Interelectrode </option3>
+<option4>d. Electrolytic </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> If a capacitor has a negative temperature coefficient, then </question>
+<option1>a. its capacitance decreases as the temperature rises. </option1>
+<option2>b. its capacitance increases as the temperature rises</option2>
+<option3>c. its capacitance does not change with temperature. </option3>
+<option4>d. it will not work if the temperature is below freezing. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Which of the following is not a general characteristic of an ac wave? </question>
+<option1>a. The wave shape is identical for each cycle. </option1>
+<option2>b. The polarity reverses periodically. </option2>
+<option3>c. The electrons always flow in the same direction. </option3>
+<option4>d. There is a definite frequency. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> All sine waves </question>
+<option1>a. have similar general appearance. </option1>
+<option2>b. have instantaneous rise and fall times. </option2>
+<option3>c. are in the same phase as cosine waves. </option3>
+<option4>d. rise instantly, but decay slowly. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> The derivative of a sine wave </question>
+<option1>a. is shifted in phase by 1/2 cycle from the sine wave. </option1>
+<option2>b. is the rate of change in the instantaneous value. </option2>
+<option3>c. has instantaneous rise and decay times. </option3>
+<option4>d. rises instantly, but decays slowly. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A phase difference of 180 degrees in the circular motion model of a sine wave represents </question>
+<option1>a. 1/4 revolution. </option1>
+<option2>b. 1/2 revolution. </option2>
+<option3>c. a full revolution. </option3>
+<option4>d. two full revoltions. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> as the number of turns in a coil that carries ac increases without limit, the current in the coil will </question>
+<option1>a. eventually become very large. </option1>
+<option2>b. stay the same. </option2>
+<option3>c. decrease, approaching zero. </option3>
+<option4>d. be stored in the core material. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> As the number of turns in a coil increases, the reactance at a constant frequency </question>
+<option1>a. increases. </option1>
+<option2>b. decreases. </option2>
+<option3>c. stays the same. </option3>
+<option4>d. is stored in the core material. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> As the frequency of an ac wave gets lower, the value of X(L) for a particular coil of wire </question>
+<option1>a. increases. </option1>
+<option2>b. decreases. </option2>
+<option3>c. stays the same. </option3>
+<option4>d. depends on the voltage. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Each point in the RL plane </question>
+<option1>a. corresponds to a unique resistance. </option1>
+<option2>b. corresponds to a uniques inductance. </option2>
+<option3>c. corresponds to a unique combination of resistance and inductance reactance. </option3>
+<option4>d. corresponds to a unique combination of resistance and inductance.</option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Each specific complex impedance value defined in the form R+jX(L) </question>
+<option1>a. corresponds to a specific point in the RL plane. </option1>
+<option2>b. corresponds to a specific inductive reactance. </option2>
+<option3>c. corresponds to a specific resistance. </option3>
+<option4>d. All of the above are true. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A vector is defined as a mathematical quantity that has </question>
+<option1>a. magnitude and direction. </option1>
+<option2>b. resistance and inductance. </option2>
+<option3>c. resistance and reactance. </option3>
+<option4>d. inductance and reactance. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> In an RL circuit, as the ratio of inductive reactance to resistance (X(L)/R) decreases, the phase angle </question>
+<option1>a. increases. </option1>
+<option2>b. decreases. </option2>
+<option3>c. stays the same. </option3>
+<option4>d. becomes alternately positive and negative. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> In a circuit containing inductive reactance but no resistance, the phase angle is </question>
+<option1>a. constantly increasing. </option1>
+<option2>b. constantly decreasing. </option2>
+<option3>c. equal to 0 deg </option3>
+<option4>d. equal to 90 deg </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> If the inductive reactance and the resistance in an RL circuit are equal (as expressed in ohms), then what is the phse angle? </question>
+<option1>a. 0 deg </option1>
+<option2>b. 45 deg </option2>
+<option3>c. 90 deg </option3>
+<option4>d. It depends on the actual values of the resistance and the inductive reactance. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> As the size of the plates in a capacitor increases, all other thing being equal, </question>
+<option1>a. the value of X(C) increases negatively. </option1>
+<option2>b. the value of X(C) decreases negatively. </option2>
+<option3>c. the value of X(C) does not change. </option3>
+<option4>d. we cannot say what happens to X(C) without more data. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> If the dielectric material between the plates of a capacitor is changed, all other things being equal,  </question>
+<option1>a. the value of X(C) increases negatively. </option1>
+<option2>b. the value of X(C) decreases negatively. </option2>
+<option3>c. the value of X(C) does not change. </option3>
+<option4>d. we cannot say what happens to X(C) without more data. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> As the frequency of a wave gets lower, all other things being equal, the value of X(C) for a capacitor </question>
+<option1>a. increases negatively. </option1>
+<option2>b. decreases negatively. </option2>
+<option3>c. does not change. </option3>
+<option4>d. depends on the current. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> The square of an imaginary number </question>
+<option1>a. can never be negative. </option1>
+<option2>b. can never be positive. </option2>
+<option3>c. can be either positive or negative. </option3>
+<option4>d. is equal to j. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A complex number </question>
+<option1>a. is the same thing as an imaginary number. </option1>
+<option2>b. has a real-number part and an imaginary-number part. </option2>
+<option3>c. is one-dimensional. </option3>
+<option4>d. is a concept reserved for elite mathematics. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> If the center conductor of a coaxial cable is made to have a smaller diameter, all other things being equal, what will happen to the Zo of the transmission line? </question>
+<option1>a. It will increase. </option1>
+<option2>b. It will decrease. </option2>
+<option3>c. It will not change. </option3>
+<option4>d. there is no way to determine this without knowing the actual dimensions. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Susceptance and conductance add to form </question>
+<option1>a. complex impedance. </option1>
+<option2>b. complex inductance. </option2>
+<option3>c. complex reactance. </option3>
+<option4>d. complex admitance. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Absolute-value impedance is equal to the square root of which of the following? </question>
+<option1>a. G^2 + B^2 </option1>
+<option2>b. R^2 + X^2 </option2>
+<option3>c. Zo </option3>
+<option4>d. Y^2 + R^2 </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Inductive susceptance is defined in </question>
+<option1>a. imaginary ohms. </option1>
+<option2>b. imaginary henrys. </option2>
+<option3>c. imaginary farads. </option3>
+<option4>d. imaginary siemens. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Capacitive susceptance values can be defined by </question>
+<option1>a. positive real numbers. </option1>
+<option2>b. negative real numbers. </option2>
+<option3>c. positive imaginary numbers. </option3>
+<option4>d. negative imaginary numbers. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Which of the following is false? </question>
+<option1>a. B(C) = 1/X(C) </option1>
+<option2>b. Complex impedance can be depicted as a vector. </option2>
+<option3>c. Characteristic impedance is complex. </option3>
+<option4>d. G = 1/R. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> In general, as the absolute value of the impedance in a circuit increases, </question>
+<option1>a. the flow of ac increases. </option1>
+<option2>b. the flow of ac decreases. </option2>
+<option3>c. the reactance decreases.</option3>
+<option4>d. the resistance increases. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> What will happen to the susceptance of a capacitor if the frequency is doubled and all other factors remain constant? </question>
+<option1>a. It will decrease to half its former value. </option1>
+<option2>b. It will not change. </option2>
+<option3>c. It will double. </option3>
+<option4>d. It will quadruple. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The power in a pure reactance is </question>
+<option1>a. radiated. </option1>
+<option2>b. true. </option2>
+<option3>c. imaginary. </option3>
+<option4>d. apparent. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Which of the following is not an example of true power? </question>
+<option1>a. Power in the form of heat, produced by dc flowing through a resistor </option1>
+<option2>b. Power in the form of electromagnetic fields, radiated from a radio antenna </option2>
+<option3>c. The product of the rms ac through a capacitor and the rms voltage across it </option3>
+<option4>d. Power in the form of heat, produced by losses in an RF transmission line </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Power factor is equal to </question>
+<option1>a. apparent power divided by true power. </option1>
+<option2>b. imaginary power divided by apparent power. </option2>
+<option3>c. imaginary power divided by true power. </option3>
+<option4>d. true power divided by apparent power. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Which of the following should be minimized in an RF transmission line? </question>
+<option1>a. The load impedance </option1>
+<option2>b. The load resistance </option2>
+<option3>c. The line loss </option3>
+<option4>d. The transmitter power </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Which of the following does not increase the loss in a transmission line? </question>
+<option1>a. Reducing the power output of the source </option1>
+<option2>b. Increasing the degree of mismatch between the line and the load </option2>
+<option3>c. Reducing the diameter of the line conductors </option3>
+<option4>d. Raising the frequency </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Which of the following is a significant problem that standing waves can cause in an RF transmission line? </question>
+<option1>a. Line overheating </option1>
+<option2>b. Excessive power loss </option2>
+<option3>c. Inaccuracy in power measurement </option3>
+<option4>d. All of the above </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> In a step-up transformer, </question>
+<option1>a. the primary impedance is greater that the secondary impedance. </option1>
+<option2>b. the secondary winding is right on top of the primary. </option2>
+<option3>c. the primary voltage is less than the secondary voltage. </option3>
+<option4>d. All of the above are true. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> The capacitance between the primary and the secondary windings of a transformer can be minimized by </question>
+<option1>a. placing the windings on opposite sides of a toroidal core. </option1>
+<option2>b. winding the secondary right on top of the primary. </option2>
+<option3>c. using the highest frequency. </option3>
+<option4>d. using a center tap on the balanced winding. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Which of the following statemets is false, concerning air cores compared with ferromagnetic cores? </question>
+<option1>a. Air concentrates the magnetic line of flux. </option1>
+<option2>b. Air works at higher frequencies than ferromagnetics. </option2>
+<option3>c. Ferromagnetics are lossier than air. </option3>
+<option4>d. A ferromagnetic-core transformer needs fewer turns of wire than an equivalent air-core transformer. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Eddy currents cause </question>
+<option1>a. an increase in efficiency. </option1>
+<option2>b. an increase in coupling between windings. </option2>
+<option3>c. an increase in core loss. </option3>
+<option4>d. an increase in usable frequency range. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> The shell method of transformer winding </question>
+<option1>a. provides maximum coupling. </option1>
+<option2>b. minimizes capacitance between windings. </option2>
+<option3>c. withstands more voltage than other winding methods. </option3>
+<option4>d. has windings far apart but along a common axis. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Which of these core types is best if you need a winding inductance of 1.5 H? </question>
+<option1>a. Air core </option1>
+<option2>b. Ferromagnetic solenoid core </option2>
+<option3>c. Ferromagnetic toroid core </option3>
+<option4>d. Ferromagnetic pot core </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> An advantage of a toroid core over a solenoid core is the fact that </question>
+<option1>a. the toroid works at higher frequencies. </option1>
+<option2>b. the toroid confines the magnetic flux. </option2>
+<option3>c. the toroid can work for dc as well as for ac. </option3>
+<option4>d. it is easier to wind the turns on a toroid. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> High voltage is used in long-distance power transmission because </question>
+<option1>a. it is easier to regulate than low voltage. </option1>
+<option2>b. the I^2R losses are minimized. </option2>
+<option3>c. the electromagnetic fields are strong. </option3>
+<option4>d. small transformers can be used. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> In a transformer, a center tap often exists in </question>
+<option1>a. the primary winding. </option1>
+<option2>b. the secondary winding. </option2>
+<option3>c. an unbalanced winding. </option3>
+<option4>d. a balanced winding </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> An autotransformer </question>
+<option1>a. can be adjusted automatically. </option1>
+<option2>b. has a center-tapped secondary. </option2>
+<option3>c. consists of a single tapped winding. </option3>
+<option4>d. is useful only for impedance matching. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> If there is reactance in the load to which a transformer is connected, then </question>
+<option1>a. the transformer will be destroyed. </option1>
+<option2>b. a perfect impedance match cannot be obtained. </option2>
+<option3>c. a center tap must be used in the secondary. </option3>
+<option4>d. the turns ratio must be changed to obtain an impedance match. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Mutual inductance causes the net value of a set of coils to </question>
+<option1>a. cancel out, resulting inzero inductance. </option1>
+<option2>b. be greater than what it would be with no mutual coupling. </option2>
+<option3>c. be less than what it would be with no mutual coupling. </option3>
+<option4>d. vary, depending on the extent and phase of mutual coupling. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> In a parallel configuration, susceptances </question>
+<option1>a. simply add up. </option1>
+<option2>b. add like capacitances in series. </option2>
+<option3>c. add like inductances in parallel. </option3>
+<option4>d. must be change to reactances before you can work with them. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Which of the following types of capacitor is polarized? </question>
+<option1>a. Mica </option1>
+<option2>b. Paper </option2>
+<option3>c. Electrolytic </option3>
+<option4>d. Air variable </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A coil with a toroidal, ferromagnetic core </question>
+<option1>a. has less inductance than an air-core with the same number of turns. </option1>
+<option2>b. is essentially self-shielding. </option2>
+<option3>c. works well as a loopstick antenna. </option3>
+<option4>d. is ideal as a transmission-line transformer. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> The efficiency of an electric generator </question>
+<option1>a. depends on the mechanical driving power source. </option1>
+<option2>b. is equal to the electrical output power divided by the mechanical input power. </option2>
+<option3>c. depends on the nature of the electrical load. </option3>
+<option4>d. is equal to driving voltage divided by output voltage. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Admittance is </question>
+<option1>a. the reciprocal of reactance. </option1>
+<option2>b. the reciprocal of resistance. </option2>
+<option3>c. a measure of the opposition a circuit offers to ac. </option3>
+<option4>d. a measure of the ease with which a circuit passes ac. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Complex numbers are used to represent impedance because </question>
+<option1>a. reactance cannot store power. </option1>
+<option2>b. reactance isn't a real physical thing. </option2>
+<option3>c. they provide a way to represent what happens in resistance-reactance circuits. </option3>
+<option4>d. engineers like to work with sophisticated mathematics. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Which of the following (within reason) has no effect on the value, in farads, of a capacitor? </question>
+<option1>a. The mutual surface area of the plates </option1>
+<option2>b. The dielectric constant of the material between the plates </option2>
+<option3>c. The spacing between the plates. </option3>
+<option4>d. The frequency </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> The inductance of a coil can be adjusted in a practical way by </question>
+<option1>a. varying the frequency of the signal applied to the coil. </option1>
+<option2>b. carying the number of turns using multiple taps. </option2>
+<option3>c. varying the current in the coil. </option3>
+<option4>d. varying the wavelength of the signal applied to the coil. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Power factor is defined as the ratio of </question>
+<option1>a. true power to VA power. </option1>
+<option2>b. true power to imaginary power. </option2>
+<option3>c. imaginary power to VA power. </option3>
+<option4>d. imaginary power to true power. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A pure sine wave contains energy at </question>
+<option1>a. only one specific frequency. </option1>
+<option2>b. a specific frequency and its even harmonics. </option2>
+<option3>c. a specific frequency and its odd harmonics. </option3>
+<option4>d. a specific frequency and all its harmonics.</option4>
+</challenge>
+
+<challenge answer = "3">
+<question> True power is equal to </question>
+<option1>a. VA power plus imaginary power. </option1>
+<option2>b. imaginary power minus VA power. </option2>
+<option3>c. the vector difference between VA and reactive power. </option3>
+<option4>d. VA power; the two are the same thing. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The reactance of a section of transmission line depends on all of the following factors except </question>
+<option1>a. the velocity factor of the line. </option1>
+<option2>b. the length of the section. </option2>
+<option3>c. the current in the line. </option3>
+<option4>d. the frequency of the signal in the line. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> When analyzing a parallel RLC circuit to find the complex impedance, you should </question>
+<option1>a. add the resistance and reactance to get R + jX. </option1>
+<option2>b. find the net conductance and susceptance, convert to resistance and reactance, and then add these to get R + jX.</option2>
+<option3>c. find the net conductance and susceptance, and add these to get R + jX. </option3>
+<option4>d. subtract reactance from resistance to get R - jX.</option4>
+</challenge>
+
+<challenge answer = "4">
+<question> The characteristics impedance of a transmission line </question>
+<option1>a. is negative imaginary. </option1>
+<option2>b. is positive imaginary. </option2>
+<option3>c. depends on the frequency. </option3>
+<option4>d. depends on the contruction of the line. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A capacitor with a negative temperature coefficient </question>
+<option1>a. works less well as the temperature increases. </option1>
+<option2>b. works better as the temperature increases. </option2>
+<option3>c. heats up as its value is made larger. </option3>
+<option4>d. exhibit increasing capacitance as the temperature drops. </option4>
+</challenge>
+
+
+</elecquestions>

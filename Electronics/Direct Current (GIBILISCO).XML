@@ -1,0 +1,1262 @@
+﻿<!-- This is the question xml file. Feel free to add new questions. Just add a new challenge, and include a "question", the "answer" and 4 options. Happy Coding! -->
+
+<elecquestions>
+
+
+<challenge answer = "2">
+<question> The atomic number of an element is determined by </question>
+<option1>a. the number of neutrons </option1>
+<option2>b. the number of protons</option2>
+<option3>c. the number of neutrons plus the number of protons</option3>
+<option4>d. the number of electrons</option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The atomic weight of an element is approximately determined by </question>
+<option1>a. the number of neutrons </option1>
+<option2>b. the number of protons</option2>
+<option3>c. the number of neutrons plus the number of protons</option3>
+<option4>d. the number of electrons</option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Suppose there is an atom of oxygen, containing eight protons and eight neutrons in the nucleus, and two neutrons are added to the nucleus. What is the resulting atomic weight? </question>
+<option1>a. 8 </option1>
+<option2>b. 10 </option2>
+<option3>c. 16 </option3>
+<option4>d. 18 </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> An ion </question>
+<option1>a. is electrically neutral. </option1>
+<option2>b. has positive electric charge. </option2>
+<option3>c. has negative electric charge. </option3>
+<option4>d. can have either a positive or negative charge. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> An isotope </question>
+<option1>a. is electrically neutral. </option1>
+<option2>b. has positive electric charge. </option2>
+<option3>c. has negative electric charge. </option3>
+<option4>d. can have either a positive or negative charge. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A molecule </question>
+<option1>a. can consist of a single atom of an element. </option1>
+<option2>b. always contains two or more elements. </option2>
+<option3>c. always has two or more atoms. </option3>
+<option4>d. is always electrically charged. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> In a compound, </question>
+<option1>a. there can be a single atom of an element.</option1>
+<option2>b. there must always be two or more elements. </option2>
+<option3>c. the atoms are mixed in with each other but not joined. </option3>
+<option4>d. there is always a shortage of electrons. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> An electrical insulator can be made a conductor </question>
+<option1>a. by heating it. </option1>
+<option2>b. by cooling it. </option2>
+<option3>c. by ionizing it. </option3>
+<option4>d. by oxidizing it. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Of the following substances, the worst conductor is </question>
+<option1>a. air. </option1>
+<option2>b. copper. </option2>
+<option3>c. iron. </option3>
+<option4>d. salt water. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Of the following substances, the best conductor is </question>
+<option1>a. air. </option1>
+<option2>b. copper. </option2>
+<option3>c. iron. </option3>
+<option4>d. salt water. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question>  Movement of holes in a semiconductor </question>
+<option1>a. is like a flow of electrons in the same direction. </option1>
+<option2>b. is possible only if the current is high enough. </option2>
+<option3>c. results in a certain amount of electic current. </option3>
+<option4>d. causes the material to stop conducting. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> If a material has low resistance, then </question>
+<option1>a. it is a good conductor. </option1>
+<option2>b. it is a poor conductor. </option2>
+<option3>c. the current flows mainly in the form of holes. </option3>
+<option4>d. current can flow only in one direction. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A coulomb </question>
+<option1>a. represents a current of 1 ampere. </option1>
+<option2>b. flows through a 100-watt light bulb. </option2>
+<option3>c. is equivalent ti 1 ampere per second. </option3>
+<option4>d. is extremely large number of charge carriers.</option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A stroke of lightning </question>
+<option1>a. is caused by a movement of holes in an insulator. </option1>
+<option2>b. has a very low current. </option2>
+<option3>c. is discharge of static electricity. </option3>
+<option4>d. builds up between clouds. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The volt is the standard unit of </question>
+<option1>a. current. </option1>
+<option2>b. charge. </option2>
+<option3>c. electromotive force. </option3>
+<option4>d. resistance. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> If an EMF of 1 volt is placed across a resistance of 2 ohms, then the current is </question>
+<option1>a. half an ampere. </option1>
+<option2>b. 1 ampere. </option2>
+<option3>c. 2 amperes. </option3>
+<option4>d. impossible to determine. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A backward-working electric motor, in which mechanical rotation is converted to electricity, is best described as </question>
+<option1>a. an inefficient, energy-wasting device. </option1>
+<option2>b. a motor with the voltage connected the wrong way. </option2>
+<option3>c. an electric generator. </option3>
+<option4>d. a magnetic field. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> In a battery, chemical energy can sometimes be replenished by </question>
+<option1>a. connecting it to a light bulb. </option1>
+<option2>b. charging it. </option2>
+<option3>c. discharging it. </option3>
+<option4>d. no means known; when a battery is dead, you must throw it away. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A fluctuating magnetic field </question>
+<option1>a. produces an electric current in an insulator. </option1>
+<option2>b. magnetizes the earth. </option2>
+<option3>c. produces a flactuating electric field. </option3>
+<option4>d. results from a steady electric current. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Visible light is converted into electricity </question>
+<option1>a. in a dry cell. </option1>
+<option2>b. in a wet cell. </option2>
+<option3>c. in a incandescent bulb. </option3>
+<option4>d. in a photovoltaic cell. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A positive electric pole </question>
+<option1>a. has a deficiency of electrons. </option1>
+<option2>b. has fewer electrons than the negative pole. </option2>
+<option3>c. has an excess of electrons. </option3>
+<option4>d. has more electrons than the negative pole. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> An EMF of 1 V </question>
+<option1>a. cannot drive much current through a circuit. </option1>
+<option2>b. represents a low resistance. </option2>
+<option3>c. can sometimes produce a large current. </option3>
+<option4>d. drops to zero in a short time. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A potentially lethal electric current is on the order of </question>
+<option1>a. 0.01 mA. </option1>
+<option2>b. 0.1 mA. </option2>
+<option3>c. 1 mA. </option3>
+<option4>d. 0.1 A. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A current of 25 A is most likely drawn by </question>
+<option1>a. a flashlight bulb. </option1>
+<option2>b. a typical household. </option2>
+<option3>c. a utility power plant. </option3>
+<option4>d. a small radio set. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A piece of wire has a conductance of 20 S. Its resistance is </question>
+<option1>a. 20 Ohms </option1>
+<option2>b. 0.5 Ohms </option2>
+<option3>c. 0.05 Ohms </option3>
+<option4>d. 0.02 Ohms </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A resistor has value of 300 ohms. Its conductance is </question>
+<option1>a. 3.33 mS. </option1>
+<option2>b. 33.3 mS. </option2>
+<option3>c. 333 uS.</option3>
+<option4>d. 0.333 S. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A span of wire 1 km long has a conductance of 0.6 S. What is the conductance of a span of this same wire that is 3 km long? </question>
+<option1>a. 1.8 S </option1>
+<option2>b. 0.6 S </option2>
+<option3>c. 0.2 S</option3>
+<option4>d. More information is necessary to determine this. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Approximately how much current can a 2-kW generator reliably deliver at 117 V? </question>
+<option1>a. 17 mA</option1>
+<option2>b. 234 mA</option2>
+<option3>c. 17 A</option3>
+<option4>d. 234 A</option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A circuit breaker is rated for 15 A at 117 V. Approximately how much does this represent. </question>
+<option1>a. 1.76 kW</option1>
+<option2>b. 1760 kW</option2>
+<option3>c. 7.8 kW</option3>
+<option4>d. 0.0078 kW </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> You are told that an air conditioner has cooled a room by 500 Btu over a certain period of time. What is this amount of energy in kWh? </question>
+<option1>a. 147 kWh</option1>
+<option2>b. 14.7 kWh</option2>
+<option3>c. 1.47 kWh</option3>
+<option4>d. 0.147 kWh</option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Of the following energy units, the one most often used to define electrical energy is </question>
+<option1>a. the Btu. </option1>
+<option2>b. the erg. </option2>
+<option3>c. the foot-pound. </option3>
+<option4>d. the kilowatt-hour. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> The frequency of common household ac in the United States is </question>
+<option1>a. 60 Hz </option1>
+<option2>b. 120 Hz</option2>
+<option3>c. 50 Hz</option3>
+<option4>d. 100 Hz</option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Half-wave rectification means that </question>
+<option1>a. half of the ac wave is inverted. </option1>
+<option2>b. half of the ac wave is cut off. </option2>
+<option3>c. the whole ac wave is inverted. </option3>
+<option4>d. the effective voltage is half the peak voltage. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> In the output of a half-wave rectifier, </question>
+<option1>a. half of the ac input wave is inverted. </option1>
+<option2>b. the effective voltage is less than that of the ac input wave. </option2>
+<option3>c. the effective voltage is the same as that of the ac input wave. </option3>
+<option4>d. the effective voltage is more than that of the ac input wave. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> In the output of a full-wave rectifier, </question>
+<option1>a. half of the ac input wave is inverted. </option1>
+<option2>b. the effective voltage is less than that of the ac input wave. </option2>
+<option3>c. the effective voltage is the same as that of the ac input wave. </option3>
+<option4>d. the effective voltage is more than that of the ac input wave. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A low voltage, such as 12 V, </question>
+<option1>a. is never dangerous. </option1>
+<option2>b. is always dangerous. </option2>
+<option3>c. is dangerous if it is ac, but not if it is dc. </option3>
+<option4>d. can be dangerous under certain conditions. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Which of the following units can represent magnemotive force? </question>
+<option1>a. The volt-turn </option1>
+<option2>b. The ampere-turn </option2>
+<option3>c. The gauss </option3>
+<option4>d. The gauss-turn </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Which of the following units can represent magnetic flux density? </question>
+<option1>a. The volt-turn </option1>
+<option2>b. The ampere-turn </option2>
+<option3>c. The gauss </option3>
+<option4>d. The gauss-turn </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A ferromagnetic material </question>
+<option1>a. concentrates magnetic flux lines within itself.</option1>
+<option2>b. increases the total magnetomotive force around a current-carrying wire. </option2>
+<option3>c. causes an increase in the current in a wire. </option3>
+<option4>d. increases the number of ampere-turns in a wire. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A coil has 500 turns and carries 75 mA of current. The magnetomotive force is </question>
+<option1>a. 37,500 At. </option1>
+<option2>b. 375 At. </option2>
+<option3>c. 37.5 At.</option3>
+<option4>d. 3.75 At. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> The attraction or repulsion between two electrically charged objects is called </question>
+<option1>a. electromagnetic deflection. </option1>
+<option2>b. electrostatic force. </option2>
+<option3>c. magnetic force. </option3>
+<option4>d. electroscopic force. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> The change in the direction of a compass needle, when a current-carrying wire is brought near, is called </question>
+<option1>a. electromagnetic deflection. </option1>
+<option2>b. electrostatic force. </option2>
+<option3>c. magnetic force. </option3>
+<option4>d. electroscopic force. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Suppose a certain current in a galvanometer causes the compass needle to deflect by 20 degrees, and then this current is doubled while the polarity stays the same. The angle of the needle deflection will </question>
+<option1>a. decrease. </option1>
+<option2>b. stay the same. </option2>
+<option3>c. increase. </option3>
+<option4>d. reverse direction. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> One important advantage of an electrostatic meter is the fact that </question>
+<option1>a. it measures very small currents. </option1>
+<option2>b. it can handle large currents. </option2>
+<option3>c. it can detect and indicate ac voltages as well as dc voltages. </option3>
+<option4>d. it draws a large current from a power supply. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A thermocouple </question>
+<option1>a. gets warm when dc flows through it. </option1>
+<option2>b. is a thin, straight, special wire. </option2>
+<option3>c. generates dc when exposed to visible light. </option3>
+<option4>d. generates ac when heated. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> An important advantage of an electromagnet-type meter over a permanent-magnet is the fact that </question>
+<option1>a. the electromagnet meter costs much less.</option1>
+<option2>b. the electromagnet meter need not be aligned with the earth's magnetic field. </option2>
+<option3>c. the permanent-magnet meter has a more sluggish coil. </option3>
+<option4>d. the electromagnet meter is more rugged. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Ammeter shunts are useful because </question>
+<option1>a. they increase meter sensitivity. </option1>
+<option2>b. they make a meter more physically rugged. </option2>
+<option3>c. they allow for measurement of large current. </option3>
+<option4>d. the prevent overheating of the meter movement. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Voltmeters should generally have </question>
+<option1>a. high internal resistance. </option1>
+<option2>b. low internal resistance. </option2>
+<option3>c. the greatest possible sensitivity. </option3>
+<option4>d. the ability to withstand large currents. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> In order to measure the power-supply voltage that is applied to an electrical circuit, a voltmeter should be placed </question>
+<option1>a. in series with the circuit that works from the supply. </option1>
+<option2>b. between the negative pole of the supply and the circuit working from the supply. </option2>
+<option3>c. between the positive pole of the supply and the circuit working form the supply. </option3>
+<option4>d. in parallel with the circuit that works from the supply. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Which of the following will not normally cause a large error in an ohmmeter reading? </question>
+<option1>a. A small voltage between points under test </option1>
+<option2>b. A slight change in switchable internal resistance </option2>
+<option3>c. A small change in the resistance to be measured </option3>
+<option4>d. A slight error in the range switch position </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> The main advantage of a FETVM over a conventional voltmeter is the fact that the FETVM </question>
+<option1>a. can measure lower voltages. </option1>
+<option2>b. draws less current from the circuit under test. </option2>
+<option3>c. can withstand higher voltages safety. </option3>
+<option4>d. is sensitive to ac voltage as well as to dc voltage. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Which of the following is not a function of fuse? </question>
+<option1>a. To ensure there is enough current available for an appliance to work right </option1>
+<option2>b. To make it impossible to use appliances that are too large for a given circuit </option2>
+<option3>c. To limit the amount of power that a device can draw from the electrical circuit </option3>
+<option4>d. To make sure the current drawn by an appliance cannot exceed a certain limit </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A utility meter's motor speed depends directly on </question>
+<option1>a. the number of apere-hours being used at the time. </option1>
+<option2>b. the number of watt-hours being used at the time. </option2>
+<option3>c. the number of watts being used at the time. </option3>
+<option4>d. the number of kilowatt-hours being used at the time. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A utility meter's readout indicates </question>
+<option1>a. voltage. </option1>
+<option2>b. power. </option2>
+<option3>c. current. </option3>
+<option4>d. energy. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A typical frequency counter </question>
+<option1>a. has an analog readout. </option1>
+<option2>b. is accurate to six digits or more. </option2>
+<option3>c. works by indirectly measuring current. </option3>
+<option4>d. works by indirectly measuring voltage. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A VU meter is never used to get a general indication of </question>
+<option1>a. sound intensity. </option1>
+<option2>b. decibels. </option2>
+<option3>c. power in an audio amplifier. </option3>
+<option4>d. visible light intensity. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> The meter movement in an illumination meter directly measures </question>
+<option1>a. current. </option1>
+<option2>b. voltage. </option2>
+<option3>c. power. </option3>
+<option4>d. energy. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> An oscilloscope cannot be used to indicate </question>
+<option1>a. frequency. </option1>
+<option2>b. wave shape. </option2>
+<option3>c. energy. </option3>
+<option4>d. peak signal voltage. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Suppose you double the voltage in a simple dc circuit, and cut the resistance in half. The current will </question>
+<option1>a. become four times as great. </option1>
+<option2>b. become twice as great. </option2>
+<option3>c. stay the same as it was before. </option3>
+<option4>d. become half as great. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> You can expect to find a wiring diagram </question>
+<option1>a. on a sticker on the back of a television receiver. </option1>
+<option2>b. in an advertisement for an electric oven. </option2>
+<option3>c. in the service/repair manual for a two-way radio. </option3>
+<option4>d. in the photograph of the front panel of a stereo hi-fi tuner. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Suppose you have an unlimited supply of 1-W, 100 ohms resistors. You need to get a 100 ohms 10-W resistor. This can be done most cheaply by means of series-paralled matrix of  </question>
+<option1>a. 3 x 3 resistors. </option1>
+<option2>b. 4 x 3 resistors. </option2>
+<option3>c. 4 x 4 resistors. </option3>
+<option4>d. 2 x 5 resistors. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Suppose you have an unlimited supply of 1-W, 1000 ohms resistors, and you need a 500 ohms resistance rated at 7 W or more. This can be done by assembling  </question>
+<option1>a. four sets of two resistors in series, and connecting these four sets in parallel. </option1>
+<option2>b. four sets of two resistors in parallel, and connecting these four sets in series.</option2>
+<option3>c. 3 x 3 series-parallel matrix of resistors. </option3>
+<option4>d. a series-parallel matrix, but something different than those described above. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Suppose you have an unlimited supply of 1-W, 1000 ohms resistors, and you need to get a 3000 ohms, 5-W resistance. The best way is to </question>
+<option1>a. make a 2 x 2 series-parallel matrix. </option1>
+<option2>b. connect three of the resistors in parallel. </option2>
+<option3>c. make a 3 x 3 series-parallel matrix. </option3>
+<option4>d. do something other than any of the above. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Good engineering practice usually requires that a series-parallel resistive network be assembled </question>
+<option1>a. from resistors that are all different. </option1>
+<option2>b. from resistros that are all identical. </option2>
+<option3>c. from a series combination of resistors in parallel but not from a parallel combination of resistors in series. </option3>
+<option4>d. from a parallel combination of resistors in series, but not from a parallel combination of resistors in parallel.</option4>
+</challenge>
+
+<challenge answer = "2">
+<question> In a series-connected string of ornament bulbs, if one bulb gets shorted out, which of the following will occur? </question>
+<option1>a. All the other bulbs will go out. </option1>
+<option2>b. The current in the string will go up. </option2>
+<option3>c. The current in the string will go down. </option3>
+<option4>d. The current in the string will stay the same. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Fill in the blank in the following sentence to make it true: "in a series or parallel dc circuit,the sum of the _____s in each component is equal to the total _____ provided by the power supply." </question>
+<option1>a. current </option1>
+<option2>b. voltage </option2>
+<option3>c. wattage </option3>
+<option4>d. resistance </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> In a voltage divider network, the total resistance </question>
+<option1>a. should be large to minimize current drain. </option1>
+<option2>b. should be as small as the power will allow. </option2>
+<option3>c. is not important. </option3>
+<option4>d. should be such that the current is kept to 100 mA. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The maximum voltage output from a voltage divider </question>
+<option1>a. is a fraction of the power supply voltage. </option1>
+<option2>b. depends on the total resistance. </option2>
+<option3>c. is equal to the supply voltage. </option3>
+<option4>d. depends on the ratio of resistances. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Proper biasing in an amplifier circuit </question>
+<option1>a. causes it to oscillate. </option1>
+<option2>b. prevents an impedance match. </option2>
+<option3>c. can be obtained using a voltage divider network. </option3>
+<option4>d. maximizes current flow. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A transistor can be protected from needless overheating by </question>
+<option1>a. a current-limiting resistor.</option1>
+<option2>b. bleeder resistor. </option2>
+<option3>c. maximizing the drive. </option3>
+<option4>d. shorting out the power supply when the circuit is off. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A bleeder resistor </question>
+<option1>a. is connected accross the capacitor in a power supply. </option1>
+<option2>b. keeps a transistor from drawing too much current. </option2>
+<option3>c. prevents an amplifier from being overdriven. </option3>
+<option4>d. optimizes the efficiency of an amplifier. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Carbon-composition resistors </question>
+<option1>a. can handle gigantic levels of power. </option1>
+<option2>b. have capacitance or inductance along with resistance. </option2>
+<option3>c. have essentially no capacitance or inductance. </option3>
+<option4>d. work better for ac than for dc. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A logical place for a wirewound resistor is </question>
+<option1>a. in a radio-frequency amplifier. </option1>
+<option2>b. in a circuit where a noninductive resistor is called for. </option2>
+<option3>c. in a low-power radio-frequency circuit. </option3>
+<option4>d. in a high-power dc circuit. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A metal-film resistor </question>
+<option1>a. is made using a carbon-based paste. </option1>
+<option2>b. does not have much inductance. </option2>
+<option3>c. can dissipate large amounts of power. </option3>
+<option4>d. has considerable inductance. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> What type of resistor, or combination of resistors, would you use as the meter-sensitivity control in a test instrument, when continuous adjustment is desired? </question>
+<option1>a. A set of switchable, fixed resistors </option1>
+<option2>b. A linear-taper potentiometer </option2>
+<option3>c. An audio-taper potentiometer </option3>
+<option4>d. A wirewound resistor </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> What type of resistor, or combination of resistors, would you use as the volume control in a stereo compact-disc (CD) player? </question>
+<option1>a. A set of switchable, fixed resistors </option1>
+<option2>b. A linear-taper potentiometer </option2>
+<option3>c. An audio-taper potentiometer </option3>
+<option4>d. A wirewound resistor </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> If a sound triples in actual power level, approximately what is this, expressed in decibels. </question>
+<option1>a. +3 dB </option1>
+<option2>b. +5 dB</option2>
+<option3>c. +6 dB</option3>
+<option4>d. +9 dB</option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Supppose a sound changes in volume by -13 dB. If the original sound power is 1.0 W, what is the final sound power? </question>
+<option1>a. 13 W </option1>
+<option2>b. 77 mW </option2>
+<option3>c. 50 mW </option3>
+<option4>d. There is not enough information given here to answer this question. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> The sound from a portable is at a level of 50 dB. How many times the threshold of hearing is this, in terms of actual sound power? </question>
+<option1>a. 50 </option1>
+<option2>b. 169 </option2>
+<option3>c. 5000 </option3>
+<option4>d. 100,000 </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> An advantage of a rheostat over a potentiometer is the fact that </question>
+<option1>a. a rheostat can handle hogher frequencies. </option1>
+<option2>b. a rheostat is more precise. </option2>
+<option3>c. a rheostat can handle more current. </option3>
+<option4>d. a rheostat works better with dc. </option4>
+</challenge>
+
+<challenge answer = " ">
+<question>  </question>
+<option1>a. </option1>
+<option2>b. </option2>
+<option3>c. </option3>
+<option4>d. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The chemical energy in a battery or cell </question>
+<option1>a. is form of kinetic energy. </option1>
+<option2>b. cannot be replenished once it is gone. </option2>
+<option3>c. changes to electrical energy when the cell is used. </option3>
+<option4>d. is caused by electric current. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A cell that cannot be recharged is known as </question>
+<option1>a. a dry cell. </option1>
+<option2>b. a wet cell. </option2>
+<option3>c. a primary cell. </option3>
+<option4>d. secondary cell. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A Weston cell is generally used </question>
+<option1>a. as a current reference source. </option1>
+<option2>b. as voltage reference source. </option2>
+<option3>c. as a power reference source. </option3>
+<option4>d. as a fuel cell. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The voltage produce by a battery of multiple cells connected in series is </question>
+<option1>a. less than the voltage produced by a cell of the same composition. </option1>
+<option2>b. the same as the voltage produced by a cell of the same composition. </option2>
+<option3>c. more than the voltage produced by a cell of the same composition. </option3>
+<option4>d. always a whole-number multiple of 1.018 V. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A direct short-cicuit of a large battery can cause </question>
+<option1>a. an increasse in its voltage. </option1>
+<option2>b. no harm other than a rapid discharge of its energy. </option2>
+<option3>c. the current to drop to zero. </option3>
+<option4>d. a physical rupture or explosion. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Suppose a cell of 1.5 V delivers 100 mA for 7 hours and 20 minutes, and the it is replaced. How much energy is supplied during this time? </question>
+<option1>a. 0.49 Wh</option1>
+<option2>b. 1.1 Wh </option2>
+<option3>c. 7.33 Wh</option3>
+<option4>d. 733 mWh </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Suppose a 12-V automotive battery is rated at 36 Ah. If a 100-W, 12-V bulb is connected across this battery, apporximately how long will the bulb stay glow, assuming the battery has been fully charged </question>
+<option1>a. 4 hours and 20 minutes </option1>
+<option2>b. 432 hours </option2>
+<option3>c. 3.6 hours </option3>
+<option4>d. 21.6 minutes </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Alkaline cells </question>
+<option1>a. are cheaper than zinc-carbon cells. </option1>
+<option2>b. generally work better in radios than zinc-carbon cells. </option2>
+<option3>c. have higher voltages than zinc-carbon cells. </option3>
+<option4>d. have shorter shelf lives zinc-carbon cells. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> The energy in a cell or battery depends mainly on </question>
+<option1>a. its physical size. </option1>
+<option2>b. the current drawn from it. </option2>
+<option3>c. its voltage. </option3>
+<option4>d. all of the above. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> In which of the following devices would a lantern battery most likely be found? </question>
+<option1>a. A heart pacemaker </option1>
+<option2>b. An electronic calculator </option2>
+<option3>c. An LCD wall clock </option3>
+<option4>d. A two-way portable radio </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> In which of the following devices would a transistor battery be the best power choice? </question>
+<option1>a. A heart pacemaker </option1>
+<option2>b. An electronic calculator </option2>
+<option3>c. An LCD wall clock </option3>
+<option4>d. A two-way portable radio </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> For which of the following application would you choose a lithium battery? </question>
+<option1>a. A microcomputer memory backup </option1>
+<option2>b. A two-way portable radio </option2>
+<option3>c. A stand-alone solar-electric system </option3>
+<option4>d. A rechargeable lantern </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Where would you most likely find a lead-acid battery? </question>
+<option1>a. In a portable audi CD player </option1>
+<option2>b. In an uninterruptible power supply </option2>
+<option3>c. In an LCD wall clock </option3>
+<option4>d. In a flashlight </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A cell or battery that maintains a current-delivering capability almost until it dies is said to have </question>
+<option1>a. a large ampere-hour rating. </option1>
+<option2>b. excellent energy capacity. </option2>
+<option3>c. a flat discharge curve. </option3>
+<option4>d. good energy storage capacity per unit volume. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Where might you find a nickel-based battery? </question>
+<option1>a. In a satellite </option1>
+<option2>b. In a portable cassetted player </option2>
+<option3>c. In a handheld radio transceiver </option3>
+<option4>d. More than one of the above </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A disadvantage of mercury cells and batteries is the fact that </question>
+<option1>a. they don't last as long as other types. </option1>
+<option2>b. they have a flat discharge curve. </option2>
+<option3>c. mercury is distructive to the environment. </option3>
+<option4>d. they need to be recharged often </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> Which kind of battery should never be used until it dies? </question>
+<option1>a. Silver-oxide </option1>
+<option2>b. Lead-acid </option2>
+<option3>c. Nickel-based </option3>
+<option4>d. Mercury </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The useful current that is delivered by a solar panel can be increased by </question>
+<option1>a. connecting capacitors in parallel with the solar cells. </option1>
+<option2>b. connecting resistors in a series with the solar cells. </option2>
+<option3>c. connecting two or more groups of solar cells in parallel. </option3>
+<option4>d. connecting resistors in parallel with the solar cells. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> An interactive solar cells power system </question>
+<option1>a. allows a homeowner to sell power to the electric company </option1>
+<option2>b. lets the batteries recharge at night. </option2>
+<option3>c. powers lights, but not electronic devices. </option3>
+<option4>d. is totally independent from the elecetric company. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> An advantage of methanol over hydrogen for use in fuel cells is the fact that </question>
+<option1>a. methanol is the most abundant element in the universe. </option1>
+<option2>b. methanol is not flammeable. </option2>
+<option3>c. methanol is a solid at room temperature. </option3>
+<option4>d. methanol is easier to transport and store. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The geomagnetic field </question>
+<option1>a. makes the earth like a huge horshoe magnet.</option1>
+<option2>b. runs exactly through the geograpic poles. </option2>
+<option3>c. makes a compass work. </option3>
+<option4>d. makes an electromagnet work. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Geomagnetic lines of flux </question>
+<option1>a. are horizontal at the geomagnetic equator. </option1>
+<option2>b. are vertical at the geomagnetic equator. </option2>
+<option3>c. are never horizontal, no matter where you go. </option3>
+<option4>d. are perfectly symmetrical araound the earth, even far out in space. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A material that can be permanently magnetized is generally said to be </question>
+<option1>a. ultramagnetic. </option1>
+<option2>b. electromagnetic. </option2>
+<option3>c. diamagnetic. </option3>
+<option4>d. ferromagnetic. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The presence of a magnetic field can always be attributed to </question>
+<option1>a. ferromagnetic materials. </option1>
+<option2>b. diamagnetic materials. </option2>
+<option3>c. motion of electric charge carriers. </option3>
+<option4>d. the north geomagnetic pole. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> The force between a magnet and a piece of ferromagnetic metal that has not been magnetized </question>
+<option1>a. can be either repulsive or attractive. </option1>
+<option2>b. is never repulsive. </option2>
+<option3>c. gets smaller as the magnet gets closer to the metal. </option3>
+<option4>d. depends on the geomagnetic field. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> Lines of magnetic flux are said to originate </question>
+<option1>a. in atoms of ferromagnetic materials. </option1>
+<option2>b. at a north magnetic pole. </option2>
+<option3>c. at points where the lines are straight. </option3>
+<option4>d. in electric charge carriers. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> The magnetic flux around a straight, current-carrying wire </question>
+<option1>a. gets stronger with increasing distance from the wire. </option1>
+<option2>b. is strongest near the wire. </option2>
+<option3>c. does not vary in strength with distance from the wire. </option3>
+<option4>d. consists of straight lines parallel to the wire. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The gauss is a unit of </question>
+<option1>a. overall magnetic field strength. </option1>
+<option2>b. ampere-turns. </option2>
+<option3>c. magnetic flux density. </option3>
+<option4>d. magnetic power. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A unit of overall magnetic field quantity is the </question>
+<option1>a. maxwell. </option1>
+<option2>b. gauss. </option2>
+<option3>c. tesla. </option3>
+<option4>d. ampere-turn. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Which of the following can occur during a geomagnetic storm? </question>
+<option1>a. Charged particles stream out from the sun. </option1>
+<option2>b. The earth's magnetic field is affected. </option2>
+<option3>c. Electrical power transimission is disrupted. </option3>
+<option4>d. More than one of the above can occur. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> An ac electromagnet </question>
+<option1>a. attracts only permanent magnets. </option1>
+<option2>b. attracts pure, unmagnetized iron. </option2>
+<option3>c. repels all permaent magnets. </option3>
+<option4>d. either attracts or repels permanent magnets, depending on the polarity. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> An advantage of an electromagnet over a permanent magnet is the fact that </question>
+<option1>a. an electromagnet can be switched on and off. </option1>
+<option2>b. an electromagnet does not have specific polarity. </option2>
+<option3>c. an electromagnet requires no power source. </option3>
+<option4>d. permanent magnets must always be cylindrical, but electromagnets can have any shape. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A substance with high retentivity </question>
+<option1>a. can make a good ac electromagnet. </option1>
+<option2>b. repels both north and south magnetic poles. </option2>
+<option3>c. is always a diamagnetic material. </option3>
+<option4>d. is well suited to making a permanent magnet. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Suppose a relay is connected into a circuit so that a device gets a signal only when the relay coil carries current. the relay is </question>
+<option1>a. an ac relay. </option1>
+<option2>b. a dc relay. </option2>
+<option3>c. normally closed. </option3>
+<option4>d. normally open. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A device that repeatedly reverses the polarity of a magnetic field in order to keep a dc motor rotating is known as </question>
+<option1>a. a solenoid. </option1>
+<option2>b. an armature coil. </option2>
+<option3>c. a commutator. </option3>
+<option4>d. a field coil. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A high tape-recorder motor speed is generally used for </question>
+<option1>a. voice recording and playback. </option1>
+<option2>b. video recording and playback. </option2>
+<option3>c. digital data storage and retrieval. </option3>
+<option4>d. all of the above. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> An advantage of a magnetic disk, compared with magnetic tape, for data storage and retrieval is that </question>
+<option1>a. a disk lasts longer. </option1>
+<option2>b. data can be stored and retrieved more quickly with disks than with tapes. </option2>
+<option3>c. disks look better. </option3>
+<option4>d. disks are less susceptible to magnetic fields. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A magnetic hard disk is usually part of </question>
+<option1>a. a computer. </option1>
+<option2>b. a dc motor. </option2>
+<option3>c. a tape recorder. </option3>
+<option4>d. an electromagnet. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> An application in which an analog meter would almost always be preferred over a digital meter is </question>
+<option1>a. the signal-strength indicator in a radio receiver. </option1>
+<option2>b. a meter that shows power-supply voltage. </option2>
+<option3>c. a utility watt-hour meter. </option3>
+<option4>d. a clock. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> Which of the following statements is false? </question>
+<option1>a. The current in a series dc circuit is divided up among the resistances. </option1>
+<option2>b. In a parallel dc circuit, the voltage is the same across each component. </option2>
+<option3>c. In a series dc circuit, the sum of the voltages across all the components, going once around a complete circle and taking polarity into account, is zero. </option3>
+<option4>d. The net resistance of a parallel set of resistors is less than the value of the smallest resistor. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The ohm is a unit of </question>
+<option1>a. electrical charge quantity. </option1>
+<option2>b. the rate at which charge carriers flow. </option2>
+<option3>c. opposition to electrical current. </option3>
+<option4>d. electrical conductance. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A wiring diagram differs from a schematic diagram in that </question>
+<option1>a. a wiring diagram is less detailed than a schematic diagram. </option1>
+<option2>b. a wiring diagram always shows the component values, but a schematic diagram might not. </option2>
+<option3>c. a schematic does not show all the interconnections bettween the components, but a wiring diagram does. </option3>
+<option4>d. a schematic diagram shows pictures of components, while a wiring diagram shows the electronic symbols. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> In which of the following places would you be most likely to find a wirewound resistor? </question>
+<option1>a. A dc circuit location where a large amount of power must be dissipated </option1>
+<option2>b. The input circuit of a radio-frequency amplifier </option2>
+<option3>c. The output circuit of a radio-frequency amplifier </option3>
+<option4>d. In an antenna system, to limit the transmitter power </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> The number of protons in the nucleus of an element is known as the </question>
+<option1>a. electron number. </option1>
+<option2>b. atomic number. </option2>
+<option3>c. valence number. </option3>
+<option4>d. charge number. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A hot-wire ammeter </question>
+<option1>a. can measure ac as well as dc. </option1>
+<option2>b. registers current changes very fast. </option2>
+<option3>c. can indicate vey low voltages. </option3>
+<option4>d. measures electrical energy. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Which of the following units indicates the rate at which energy is expanded </question>
+<option1>a. The volt </option1>
+<option2>b. The ampere </option2>
+<option3>c. The coulomb </option3>
+<option4>d. The watt </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Which of the following correctly states Ohm's Law? </question>
+<option1>a. Volts equal ampers divided by ohms. </option1>
+<option2>b. Ohms equal amperes divided by volts. </option2>
+<option3>c. Amperes equal ohms divided by volts. </option3>
+<option4>d. Ohms equal volts divided by amperes. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The current flowing into a point in a dc circuit is always equal to the current </question>
+<option1>a. delivered by the power supply. </option1>
+<option2>b. through any one of the resistances. </option2>
+<option3>c. flowing out of the point. </option3>
+<option4>d. at any other point. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A loudness meter in a hi-fi system is generally calibrated in </question>
+<option1>a. volts. </option1>
+<option2>b. amperes. </option2>
+<option3>c. decibels. </option3>
+<option4>d. watt-hours. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> An electrically charged atom (either positive or negative) is known as </question>
+<option1>a. a molecule. </option1>
+<option2>b. an isotope. </option2>
+<option3>c. an ion. </option3>
+<option4>d. an electron. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The peak voltage in an ac wave is always </question>
+<option1>a. greater than the average voltage. </option1>
+<option2>b. less than the average voltage. </option2>
+<option3>c. greater than or equal to the average voltage. </option3>
+<option4>d. less than or equal to the average votlage. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> A primitive device for indicating the presence of an electric current is </question>
+<option1>a. an electrometer. </option1>
+<option2>b. a galvanometer. </option2>
+<option3>c. a voltmeter. </option3>
+<option4>d. a coulometer. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A disadvantage of mercury cells is the fact that they </question>
+<option1>a. can adversely affect the environment when discarded. </option1>
+<option2>b. supply dangerously high voltage. </option2>
+<option3>c. can reverse polarity unexpectedly. </option3>
+<option4>d. must be physically larger than other types of cells that have the same current-delivering capacity. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Which of the following is not a common use for a resistor or set of resistors? </question>
+<option1>a. Biasing for a transistor </option1>
+<option2>b. Voltage division </option2>
+<option3>c. Current limiting </option3>
+<option4>d. Helping a capacitor to hold its charge for a long time </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> When an electrical charge exists but there is no flow of current, the charge is said to be </question>
+<option1>a. Ionizing. </option1>
+<option2>b. atomic </option2>
+<option3>c. molecular </option3>
+<option4>d. static </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> The sum of the voltages, going around a dc circuit, but not including the power supply, has </question>
+<option1>a. an equal value and the same polarity as the supply. </option1>
+<option2>b. a value that depends on the ratio of the resistances. </option2>
+<option3>c. a different value from, but the same polarity as, the supply. </option3>
+<option4>d. an equal value as, but the opposite polarity from, the supply. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A watt-hour meter measures. </question>
+<option1>a. voltage. </option1>
+<option2>b. current. </option2>
+<option3>c. power. </option3>
+<option4>d. energy. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> An advantage of a magnetic disk over magnetic tape for data storage is the fact that </question>
+<option1>a. data is too closely packed on the tape. </option1>
+<option2>b. the disk is immune to the effects of magnetic fields. </option2>
+<option3>c. data storage and retrieval is faster on disk. </option3>
+<option4>d. disks store computer data in analog form. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A sample of material with resistance so high that it can be considered infinite for most practical purposes is known as </question>
+<option1>a. a semiconductor. </option1>
+<option2>b. a paraconductor. </option2>
+<option3>c. an insulator. </option3>
+<option4>d. a resistor. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Primary cells </question>
+<option1>a. can be used over and over. </option1>
+<option2>b. have higher voltage than other types of cells. </option2>
+<option3>c. all suply exactly 1.500 V. </option3>
+<option4>d. cannot be recharged. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A rheostat </question>
+<option1>a. can be used in high-voltage and/or high-power dc circuits. </option1>
+<option2>b. is ideal for tuning a radio receiver. </option2>
+<option3>c. is often used as a bleeder resistor. </option3>
+<option4>d. is better than a potentiometer for low-power audio. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> How much dc voltage does a typical dry cell provide? </question>
+<option1>a. 12 V</option1>
+<option2>b. 6 V </option2>
+<option3>c. 1.5 V </option3>
+<option4>d. 117 V </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A geomagnetic storm </question>
+<option1>a. causes solar wind. </option1>
+<option2>b. causes the earth's magnetic field. </option2>
+<option3>c. can disturb the earth's atmosphere. </option3>
+<option4>d. can pollute the earth's atmosphere. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A unit of electrical charge quantity is the </question>
+<option1>a. volt. </option1>
+<option2>b. ampere. </option2>
+<option3>c. watt. </option3>
+<option4>d. coulomb. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A unit conductance is the </question>
+<option1>a. volt per meter. </option1>
+<option2>b. ampere per meter. </option2>
+<option3>c. anti-ohm. </option3>
+<option4>d. siemens. </option4>
+</challenge>
+
+<challenge answer = "2">
+<question> The main difference between a lantern battery and a transistor battery is the fact that </question>
+<option1>a. a lantern battery has higher voltage than a transistor battery. </option1>
+<option2>b. a fresh lantern battery has more energy stored in it than a fresh transistor battery. </option2>
+<option3>c. a lantern battery cannot be used with electronic devices such as transistor radios, but a transistor battery can. </option3>
+<option4>d. a lantern battery can be recharged, but a transistor battery cannot. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> Nickel-based batteries would most likely be found </question>
+<option1>a. in disposable flashlights. </option1>
+<option2>b. in large lanterns. </option2>
+<option3>c. as car and truck batteries. </option3>
+<option4>d. in handheld radio transceivers. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A voltmeter should have </question>
+<option1>a. low internal resistance. </option1>
+<option2>b. electrostatic plates. </option2>
+<option3>c. a sensitive amplifier. </option3>
+<option4>d. a high internal resistance. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The purpose of a bleeder resistor is to </question>
+<option1>a. provide bias for a transistor. </option1>
+<option2>b. serve as a voltage divider. </option2>
+<option3>c. protect people against the danger of electric shock. </option3>
+<option4>d. reduce the current in a power supply. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A dc electromagnet </question>
+<option1>a. has constant polarity. </option1>
+<option2>b. requires an air core. </option2>
+<option3>c. does not attract or repel a permanent magnet. </option3>
+<option4>d. has polarity that periodically reverses. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> The rate at which charge carriers flow is measure in </question>
+<option1>a. amperes. </option1>
+<option2>b. coulombs. </option2>
+<option3>c. volts. </option3>
+<option4>d. watts. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A device commonly used for remote switching of high-current circuits is </question>
+<option1>a. a solenoid. </option1>
+<option2>b. an electromagnet. </option2>
+<option3>c. a potentiometer. </option3>
+<option4>d. a relay. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> A memory nickel-based cell or battery </question>
+<option1>a. occurs whenerever the battery is discharged. </option1>
+<option2>b. indicates that the cell or battery is dead. </option2>
+<option3>c. can usually be remedied by repeated discharging and recharging. </option3>
+<option4>d. can cause an explosion. </option4>
+</challenge>
+
+<challenge answer = "4">
+<question> A material with high permeability </question>
+<option1>a. increases magnetic field quantity. </option1>
+<option2>b. is necessary if a coil is to produce a magnetic field. </option2>
+<option3>c. always has high retentivity. </option3>
+<option4>d. concentrates magnetic lines of flux. </option4>
+</challenge>
+
+<challenge answer = "1">
+<question> A chemical compound </question>
+<option1>a. consists of two or more atoms. </option1>
+<option2>b. contains an unusual number of neutrons. </option2>
+<option3>c. is technically the same as an ion. </option3>
+<option4>d. has shortage of electrons. </option4>
+</challenge>
+
+<challenge answer = "3">
+<question> The main problem with bar-graph meters is the fact that </question>
+<option1>a. they are not very sensitive. </option1>
+<option2>b. they are unstable. </option2>
+<option3>c. they cannot give very precise readings. </option3>
+<option4>d. you need special training to read them. </option4>
+</challenge>
+
+</elecquestions>

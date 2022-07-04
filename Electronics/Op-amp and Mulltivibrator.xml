@@ -1,0 +1,1053 @@
+<elecquestions>
+<!--electronics-->
+<challenge answer="1">
+<question>The decibel is a unit of</question>
+<option1>a. relative signal strength</option1>
+<option2>b. voltage</option2>
+<option3>c. power</option3>
+<option4>d. current</option4>
+</challenge>
+<challenge answer="3">
+<question>If a circuit has a voltage-amplification factor of 20, then the voltage gain is</question>
+<option1>a. 13 db</option1>
+<option2>b. 20 db</option2>
+<option3>c. 26 db</option3>
+<option4>d. 40 db</option4>
+</challenge>
+<challenge answer="2">
+<question>A gain of -15 dB in a circuit means that</question>
+<option1>a. the output signal is stronger than the input</option1>
+<option2>b. the input signal is stronger than the ouput</option2>
+<option3>c. the input signal is 15 times as strong as the output</option3>
+<option4>d. the output signal is 15 times as strong as the input</option4>
+</challenge>
+<challenge answer="1">
+<question>A resistor between the base of an NPN bipolar transistor and the positive supply voltage is used to</question>
+<option1>a. provide proper bias</option1>
+<option2>b. provide a path for the input signal</option2>
+<option3>c. provide a path for the ouput signal</option3>
+<option4>d. limit the collector current</option4>
+</challenge>
+<challenge answer="4">
+<question>The capacitance values in an amplifier circuit depend on</question>
+<option1>a. the supply voltage</option1>
+<option2>b. the polarity</option2>
+<option3>c. the signal strength</option3>
+<option4>d. the signal frequency</option4>
+</challenge>
+<challenge answer="2">
+<question>A class-A circuit would not work well as </question>
+<option1>a. A stereo hi-fi amplifier</option1>
+<option2>b. A television transmitter power amplifier</option2>
+<option3>c. A low level microphone preamplifier</option3>
+<option4>d. The first stage in a radio receiver</option4>
+</challenge>
+<challenge answer="4">
+<question>In which of the following FET amplifier types does drain current flow for 50 percent of the signal cycle?</question>
+<option1>a. Class A</option1>
+<option2>b. Class AB2</option2>
+<option3>c. Class AB1</option3>
+<option4>d. Class B</option4>
+</challenge>
+<challenge answer="1">
+<question>Which of the following amplifier types produces the least distortion of the signal waveform?</question>
+<option1>a. Class A</option1>
+<option2>b. Class AB2</option2>
+<option3>c. Class AB1</option3>
+<option4>d. Class B</option4>
+</challenge>
+<challenge answer="2">
+<question>Which bipolar amplifier type has some distortion in the signal wave, with collector current during most, but not all of the cycle?</question>
+<option1>a. Class A</option1>
+<option2>b. Class AB2</option2>
+<option3>c. Class AB1</option3>
+<option4>d. Class B</option4>
+</challenge>
+<challenge answer="2">
+<question>How can a class-B amplifier be made suitable for hi-fi audio applications?</question>
+<option1>a. by increasing the bias</option1>
+<option2>b. by using two transistors in push-pull</option2>
+<option3>c. by using tuned circuits in the output</option3>
+<option4>d. A class B amplifier cannot work well for hi-audio</option4>
+</challenge>
+<challenge answer="4">
+<question>How can a class C amplifier be made linear?</question>
+<option1>a. by reducing the bias</option1>
+<option2>b. by increasing the drive</option2>
+<option3>c. by using two transistors in push pull</option3>
+<option4>d. A class C amplifier cannot be made linear</option4>
+</challenge>
+<challenge answer="4">
+<question>Which of the following amplifier classes generally needs the most driving power?</question>
+<option1>a. Class A</option1>
+<option2>b. Class AB2</option2>
+<option3>c. Class AB1</option3>
+<option4>d. Class B</option4>
+</challenge>
+<challenge answer="2">
+<question>A graphic equalizer is a form of</question>
+<option1>a. bias control</option1>
+<option2>b. tone control</option2>
+<option3>c. gain control</option3>
+<option4>d. frequency control</option4>
+</challenge>
+<challenge answer="3">
+<question>A disadvantage of transformer coupling, as opposed to capacitive coupling is that</question>
+<option1>a. transformers can't match impedances</option1>
+<option2>b. transformers can't work above audio frequencies</option2>
+<option3>c. transformers cost more</option3>
+<option4>d. transformers reduce the gain</option4>
+</challenge>
+<challenge answer="1">
+<question>A broadband power amplifier is</question>
+<option1>a. generally easy to use</option1>
+<option2>b. more efficient than a tuned power amplifier</option2>
+<option3>c. less likely than a tuned power amplifier to amplify unwanted signals</option3>
+<option4>d. usable only at audio frequencies</option4>
+</challenge>
+<challenge answer="2">
+<question>A tuned power amplifier must always be</question>
+<option1>a. set to work over a wide range of frequencies</option1>
+<option2>b. adjusted for maximum power output</option2>
+<option3>c. made as efficient as possible</option3>
+<option4>d. operated in Class C</option4>
+</challenge>
+<challenge answer="1">
+<question>A loading control in a tuned power amplifier</question>
+<option1>a. provides an impedance match between the bipolar transistor or FET and the load</option1>
+<option2>b. allows broadband operation</option2>
+<option3>c. adjusts the resonant frequency</option3>
+<option4>d. controls the input impedance</option4>
+</challenge>
+<challenge answer="3">
+<question>In a cathode ray tube (CRT), the term electrostatic deflection means that</question>
+<option1>a. the device is not working correctly</option1>
+<option2>b. static electricity distorts the image</option2>
+<option3>c. the beam is bent by an electric field</option3>
+<option4>d. the beam is bent by coils carrying a variable current</option4>
+</challenge>
+<challenge answer="4">
+<question>A type of electron tube that is useful for generating microwave energy is</question>
+<option1>a. a triode</option1>
+<option2>b. an oscillotron</option2>
+<option3>c. a cathode ray tube</option3>
+<option4>d. a magnetron</option4>
+</challenge>
+<challenge answer="4">
+<question>In an AND gate, the output is high.</question>
+<option1>a. if any input is high</option1>
+<option2>b. only when all inputs are low</option2>
+<option3>c. if any input is low</option3>
+<option4>d. only when all inputs are high</option4>
+</challenge>
+<challenge answer="4">
+<question>A voltage-controlled oscillator makes use of </question>
+<option1>a. a varactor diode</option1>
+<option2>b. a Zener diode</option2>
+<option3>c. a split capacitance</option3>
+<option4>d. only when all inputs are high</option4>
+</challenge>
+<challenge answer="4">
+<question>Which of the following is not an advantage of a transistor over a vacuum tube?</question>
+<option1>a. samller size</option1>
+<option2>b. lighter weight</option2>
+<option3>c. less heat generation</option3>
+<option4>d. higher power-handling capacity</option4>
+</challenge>
+<challenge answer="4">
+<question>In a radio-frequency power amplifier using a vacuum tube, stability is enhanced by grounding the</question>
+<option1>a. cathode</option1>
+<option2>b. filament</option2>
+<option3>c. plate</option3>
+<option4>d. control grid</option4>
+</challenge>
+<challenge answer="3">
+<question>One difference between a triode and an N-channel FET is that</question>
+<option1>a. triodes work with lower voltages</option1>
+<option2>b. triodes are more contact</option2>
+<option3>c. triodes need more voltage</option3>
+<option4>d. triodes don't need filaments</option4>
+</challenge>
+<challenge answer="4">
+<question>The control grid of a tube corresponds to the</question>
+<option1>a. source of an FET</option1>
+<option2>b. collector of a bipolar transistor</option2>
+<option3>c. anode of a diode</option3>
+<option4>d. anode of an FET</option4>
+</challenge>
+<challenge answer="1">
+<question>The intensity of the electron flow in a vacuum tube depends on all of the following except</question>
+<option1>a. the gate voltage</option1>
+<option2>b. the power supply voltage</option2>
+<option3>c. the grid voltage</option3>
+<option4>d. the voltage between the cathode and the plate</option4>
+</challenge>
+<challenge answer="3">
+<question>Which type of tube maintains constant voltage drop with changes in current?</question>
+<option1>a. a triode</option1>
+<option2>b. a tetrodes</option2>
+<option3>c. a gas-filled regulator</option3>
+<option4>d. a pentagrid converter</option4>
+</challenge>
+<challenge answer="3">
+<question>In a tube with directly heated cathode</question>
+<option1>a. the filament is seperated from the cathode</option1>
+<option2>b. the grid is connected to the filament</option2>
+<option3>c. the filament serves as the cathode</option3>
+<option4>d. there is no filament</option4>
+</challenge>
+<challenge answer="4">
+<question>In a tube with a cold cathode</question>
+<option1>a. the filament is seperated from the cathode</option1>
+<option2>b. the grid is connected to the filament</option2>
+<option3>c. the filament serves as the cathode</option3>
+<option4>d. there is no filament</option4>
+</challenge>
+<challenge answer="3">
+<question>A screen grid enhances tube operation by</question>
+<option1>a. decreasing the gain</option1>
+<option2>b. decreasing the plate voltage</option2>
+<option3>c. decreasing the grid-to-plate capacitance</option3>
+<option4>d. pulling excess electrons from the plate</option4>
+</challenge>
+<challenge answer="2">
+<question>A tube with three grids is called a</question>
+<option1>a. triode</option1>
+<option2>b. pentode</option2>
+<option3>c. tetrode</option3>
+<option4>d. hexode</option4>
+</challenge>
+<challenge answer="1">
+<question>A tube type receiver</question>
+<option1>a. is bulky and heavy</option1>
+<option2>b. requires low voltage</option2>
+<option3>c. is more sensitive than a transitorized radio</option3>
+<option4>d. all of the choices</option4>
+</challenge>
+<challenge answer="4">
+<question>An advantage of a grounded-grid power amplifier is </question>
+<option1>a. excellent sensitivity</option1>
+<option2>b. low noise</option2>
+<option3>c. high impedance</option3>
+<option4>d. good stability</option4>
+</challenge>
+<challenge answer="2">
+<question>A heptode tube has </question>
+<option1>a. two grids</option1>
+<option2>b. five grids</option2>
+<option3>c. three grids</option3>
+<option4>d. seven grids</option4>
+</challenge>
+<challenge answer="3">
+<question>The electron gun in a CRT is another name for its</question>
+<option1>a. a magnetic field</option1>
+<option2>b. a fluctuating field </option2>
+<option3>c. an electric field</option3>
+<option4>d. a constant current</option4>
+</challenge>
+<challenge answer="3">
+<question>The horizontal displacement on an oscilloscope CRT screen is usually measured in</question>
+<option1>a. frequency per unit division</option1>
+<option2>b. current per unit division</option2>
+<option3>c. time per unit division</option3>
+<option4>d. voltage per unit division</option4>
+</challenge>
+<challenge answer="3">
+<question>The horizontal displacement on an oscilloscope CRT screen is usually measured in </question>
+<option1>a. frequency per unit division</option1>
+<option2>b. current per unit division</option2>
+<option3>c. time per unit division</option3>
+<option4>d. voltage per unit division</option4>
+</challenge>
+<challenge answer="3">
+<question>In a time-domain oscilloscope, the waveform to be analyzed is usually applied to the </question>
+<option1>a. control grid plates or coils</option1>
+<option2>b. anode plates or coils</option2>
+<option3>c. vertical deflection plates or coils</option3>
+<option4>d. horizontal deflection plates or coils</option4>
+</challenge>
+<challenge answer="1">
+<question>A vidicon camera tube is noted for its</question>
+<option1>a. sensitivity</option1>
+<option2>b. heavy weight</option2>
+<option3>c. large size</option3>
+<option4>d. rapid response</option4>
+</challenge>
+<challenge answer="2">
+<question>In a magnetron, as the frequency is increased</question>
+<option1>a. the achievable power output increases</option1>
+<option2>b. the achievable power output decreases</option2>
+<option3>c. the output power stays the same</option3>
+<option4>d. the output power increases and decreases alternately</option4>
+</challenge>
+<challenge answer="2">
+<question>The paths of the electrons in a magnetron are spirals, rather than straight lines, because of </question>
+<option1>a. the extreme voltage used</option1>
+<option2>b. the longitudinal magnetic flux</option2>
+<option3>c. the bunching-up of the electrons</option3>
+<option4>d. the shapes of the cavities</option4>
+</challenge>
+<challenge answer="3">
+<question>A klystron is noted for its</question>
+<option1>a. spiraling electrons</option1>
+<option2>b. low noise output</option2>
+<option3>c. high achievable output power</option3>
+<option4>d. the shapes of the cavities</option4>
+</challenge>
+<challenge answer="1">
+<question>In a multi-cavity klystron, the electrons</question>
+<option1>a. have variable speed</option1>
+<option2>b. travel in circles</option2>
+<option3>c. are reflected by the cavities</option3>
+<option4>d. are drawn out via the cathode</option4>
+</challenge>
+<challenge answer="1">
+<question>A small-signal amplifier</question>
+<option1>a. uses only a small portion of its load line</option1>
+<option2>b. always has an output signal in the mV range</option2>
+<option3>c. goes into saturation once on each input cycle</option3>
+<option4>d. is always a common-emitter amplifier</option4>
+</challenge>
+<challenge answer="2">
+<question>A certain common-emitter amplifier has a voltage amplifier is 3mA, the approximately value of re is </question>
+<option1>a. the circuit will become unstable</option1>
+<option2>b. the voltage gain will decrease</option2>
+<option3>c. the voltage gain will increase</option3>
+<option4>d. the Q-point will shift</option4>
+</challenge>
+<challenge answer="1">
+<question>The input resistance of a common-base amplifier is</question>
+<option1>a. very low</option1>
+<option2>b. the same as a CE</option2>
+<option3>c. very high</option3>
+<option4>d. the same as a CC</option4>
+</challenge>
+<challenge answer="2">
+<question>When the Q-point of an inverting class A amplifier is closer to saturation than cut-off and the input sine wave is gradually increased, clipping on the output will first appear on </question>
+<option1>a. the positive peaks</option1>
+<option2>b. the negative peaks</option2>
+<option3>c. both peaks simultaneously</option3>
+<option4>d. none of the choices</option4>
+</challenge>
+<challenge answer="4">
+<question>The transistors in a class B amplifier are biased.</question>
+<option1>a. into cut-off</option1>
+<option2>b. at midpoint</option2>
+<option3>c. in saturation</option3>
+<option4>d. right at cut-off</option4>
+</challenge>
+<challenge answer="1">
+<question>The power dissipation of a class C amplifier is normally</question>
+<option1>a. very low</option1>
+<option2>b. the same as a class B</option2>
+<option3>c. very high</option3>
+<option4>d. the same as a class A</option4>
+</challenge>
+<challenge answer="4">
+<question>The efficiency of class C amplifier is</question>
+<option1>a. less than class A</option1>
+<option2>b. less than class B</option2>
+<option3>c. less than class AB</option3>
+<option4>d. greater than class A, class B or class AB</option4>
+</challenge>
+<challenge answer="4">
+<question>The JFET is </question>
+<option1>a. a unipolar device</option1>
+<option2>b. a voltage-controlled device</option2>
+<option3>c. a current-controlled device</option3>
+<option4>d. answers(a) and (b)</option4>
+</challenge>
+<challenge answer="3">
+<question>The channel of a JFET is between the</question>
+<option1>a. gate and drain</option1>
+<option2>b. gate and source</option2>
+<option3>c. drain and source</option3>
+<option4>d. input and output</option4>
+</challenge>
+<challenge answer="1">
+<question>A JFET always operates with</question>
+<option1>a. the gate-to-source pn junction reverse-biased</option1>
+<option2>b. the gate-to-source pn junction forward-biased</option2>
+<option3>c. the drain connected to ground</option3>
+<option4>d. the gate connected to the source</option4>
+</challenge>
+<challenge answer="4">
+<question>The constant current region of an FET lies between </question>
+<option1>a. cut-off and saturation</option1>
+<option2>b. cut-off and pinch-off</option2>
+<option3>c. 0 and loss</option3>
+<option4>d. pinch-off and breakdown</option4>
+</challenge>
+<challenge answer="3">
+<question>Idss is</question>
+<option1>a. the drain current with the source shorted</option1>
+<option2>b. the drain current at cut-off</option2>
+<option3>c. the maximum possible drain current</option3>
+<option4>d. the midpoint drain current</option4>
+</challenge>
+<challenge answer="1">
+<question>Drain current in the constant-current region increases when</question>
+<option1>a. the gate-to-source bias voltage decreases</option1>
+<option2>b. the gate-to-source bias voltage increases</option2>
+<option3>c. the drain-to-source voltage increases</option3>
+<option4>d. the drain-to-source voltage decreases</option4>
+</challenge>
+<challenge answer="2">
+<question>At cut-off, the JFET channel is</question>
+<option1>a. at its widest point</option1>
+<option2>b. completely closed by the depletion region</option2>
+<option3>c. extremely narrow</option3>
+<option4>d. reverse-biased</option4>
+</challenge>
+<challenge answer="3">
+<question>A MOSFET differs from a JFET mainly because</question>
+<option1>a. of the power rating</option1>
+<option2>b. the MOSFET has two gates</option2>
+<option3>c. the JFET has a pn junction</option3>
+<option4>d. MOSFETs do not have a physical channel</option4>
+</challenge>
+<challenge answer="2">
+<question>An n-channel D-MOSFET with a positive VGS is operating in</question>
+<option1>a. the depletion mode</option1>
+<option2>b. the enhancement mode</option2>
+<option3>c. cut-off</option3>
+<option4>d. saturation</option4>
+</challenge>
+<challenge answer="2">
+<question>A T-MOSFET is a specified type of</question>
+<option1>a. D-MOSFET</option1>
+<option2>b. E-MOSFET</option2>
+<option3>c. JFET</option3>
+<option4>d. answers (a) and (c)</option4>
+</challenge>
+<challenge answer="3">
+<question>The open-loop gain of op-amp is always</question>
+<option1>a. less than the closed-loop gain</option1>
+<option2>b. equal to the closed-loop gain</option2>
+<option3>c. greater than the closed loop gain</option3>
+<option4>d. a very stable and constant quantity for a given type of op-amp</option4>
+</challenge>
+<challenge answer="2">
+<question>The midrange open-loop gain of op-amp</question>
+<option1>a. extends from the lower critical frequency to the upper critical frequency</option1>
+<option2>b. extends from 0 Hz to the upper critical frequency</option2>
+<option3>c. rolls off at 20 dB/decade beginning at 0 Hz</option3>
+<option4>d. answers (a) and (b)</option4>
+</challenge>
+<challenge answer="1">
+<question>Phase shift through an op-amp is caused by</question>
+<option1>a. the internal RC circuits</option1>
+<option2>b. the external RC circuits</option2>
+<option3>c. the gain roll off</option3>
+<option4>d. negative feedback</option4>
+</challenge>
+<challenge answer="4">
+<question>Each RC circuit in an op amp</question>
+<option1>a. causes the gain to roll off at -6 dB/octave</option1>
+<option2>b. causes the gain to roll off at -20 dB/octave</option2>
+<option3>c. reduces the midrange by 3 dB</option3>
+<option4>d. answers (a) and (b)</option4>
+</challenge>
+<challenge answer="3">
+<question>If a certain op-amp has a closed-loop gain of 20 and an upper critical frequency of 10 MHz, the gain-bandwidth product is </question>
+<option1>a. 200 MHz</option1>
+<option2>b. 10 MHz</option2>
+<option3>c. the unity-gain frequency</option3>
+<option4>d. A or B</option4>
+</challenge>
+<challenge answer="4">
+<question>Positive feedback occurs when</question>
+<option1>a. the output signal is fed back to the input in-phase with the input signal</option1>
+<option2>b. the output signal is fed back to the input out-of-phase with the input signal</option2>
+<option3>c. the total phase shift through the op-amp and feedback circuit is 360°</option3>
+<option4>d. answers (a) and (c)</option4>
+</challenge>
+<challenge answer="4">
+<question>For a closed-loop op-amp circuit to be unstable</question>
+<option1>a. there must be positive feedback</option1>
+<option2>b. the loop gain must be greater than one</option2>
+<option3>c. the loop gain must be less than one</option3>
+<option4>d. answers (a) and (b)</option4>
+</challenge>
+<challenge answer="2">
+<question>The amount of additional phase shift required to make the total phase shift around a close loop equal to zero is called</question>
+<option1>a. the unity-gain phase shift</option1>
+<option2>b. phase margin</option2>
+<option3>c. phase lag</option3>
+<option4>d. phase bandwidth</option4>
+</challenge>
+<challenge answer="3">
+<question>For a given value of closed loop gain, a positive phase margin indicates</question>
+<option1>a. an unstable condition</option1>
+<option2>b. too much phase shift</option2>
+<option3>c. a stable condition</option3>
+<option4>d. nothing</option4>
+</challenge>
+<challenge answer="2">
+<question>The purpose of phase-lag compensation is to </question>
+<option1>a. make the op-amp stable at very high values of gain</option1>
+<option2>b. make the op-amp stable at low values of gain</option2>
+<option3>c. reduce the unity-gain frequency</option3>
+<option4>d. increase the bandwidth</option4>
+</challenge>
+<challenge answer="3">
+<question>An integrated circuit (IC) op-amp has</question>
+<option1>a. two inputs and two outputs</option1>
+<option2>b. one input and one output</option2>
+<option3>c. two inputs and one output</option3>
+<option4>d. one inputs and two outputs</option4>
+</challenge>
+<challenge answer="3">
+<question>Which of the following characteristics does not necessarily apply to an op-amp?</question>
+<option1>a. high gain</option1>
+<option2>b. high input impedance</option2>
+<option3>c. low-power</option3>
+<option4>d. low output impedance</option4>
+</challenge>
+<challenge answer="4">
+<question>A differential amplifier</question>
+<option1>a. is part of an op-amp</option1>
+<option2>b. has one input and one output</option2>
+<option3>c. has two outputs</option3>
+<option4>d. answers (a) and (c)</option4>
+</challenge>
+<challenge answer="2">
+<question>When a differential amplifier is operated single-ended,</question>
+<option1>a. the output is grounded</option1>
+<option2>b. one input is grounded and a signal is applied to the other</option2>
+<option3>c. both inputs are connected together</option3>
+<option4>d. the output is not inverted</option4>
+</challenge>
+<challenge answer="1">
+<question>In the differential mode,</question>
+<option1>a. opposite polarity signals are applied to the inputs</option1>
+<option2>b. the gain is one</option2>
+<option3>c. the outputs are different amplitudes</option3>
+<option4>d. only one supply voltage is used</option4>
+</challenge>
+<challenge answer="3">
+<question>In the common mode,</question>
+<option1>a. both inputs are grounded</option1>
+<option2>b. the outputs are connected together</option2>
+<option3>c. an identical signal appears on both inputs</option3>
+<option4>d. the output signals are in-phase</option4>
+</challenge>
+<challenge answer="3">
+<question>Common-mode gain is</question>
+<option1>a. very high</option1>
+<option2>b. always unity</option2>
+<option3>c. very low</option3>
+<option4>d. unpredictable</option4>
+</challenge>
+<challenge answer="1">
+<question>Differential gain is</question>
+<option1>a. very high</option1>
+<option2>b. very low</option2>
+<option3>c. dependent on the input voltage</option3>
+<option4>d. about 100</option4>
+</challenge>
+<challenge answer="3">
+<question>With zero volts on both inputs, an op-amp ideally should have an output</question>
+<option1>a. equal to the positive supply voltage</option1>
+<option2>b. equal to the negative supply voltage</option2>
+<option3>c. equal to zero</option3>
+<option4>d. equal to the CMRR</option4>
+</challenge>
+<challenge answer="4">
+<question>Of the value listed, the most realistic value for open-loop gain of an op-amp is</question>
+<option1>a. 1</option1>
+<option2>b. 80 dB</option2>
+<option3>c. 2000</option3>
+<option4>d. 100,000</option4>
+</challenge>
+<challenge answer="3">
+<question>The purpose of offset nulling is to</question>
+<option1>a. reduce the gain</option1>
+<option2>b. equalize the input signals</option2>
+<option3>c. zero the output error voltage</option3>
+<option4>d. answers (a) and (c)</option4>
+</challenge>
+<challenge answer="3">
+<question>For an op-amp with negative feedback, the output is</question>
+<option1>a. equal to the input</option1>
+<option2>b. increased</option2>
+<option3>c. fed back to the inverting input</option3>
+<option4>d. fed back to the non-inverting input</option4>
+</challenge>
+<challenge answer="4">
+<question>The use of negative feedback</question>
+<option1>a. reduces the voltage gain of an op-amp</option1>
+<option2>b. makes the op-amp oscillate</option2>
+<option3>c. makes linear operation possible</option3>
+<option4>d. answers (a) and (c)</option4>
+</challenge>
+<challenge answer="2">
+<question>Negative feedback</question>
+<option1>a. increases the input and output impedances</option1>
+<option2>b. increases the input impedance and the bandwidth</option2>
+<option3>c. decreases the output impedance and the bandwidth</option3>
+<option4>d. does not effect impedance or bandwidth</option4>
+</challenge>
+<challenge answer="4">
+<question>A voltage-follower</question>
+<option1>a. has a gain of one</option1>
+<option2>b. is non-inverting</option2>
+<option3>c. has no feedback resistor</option3>
+<option4>d. has all of these</option4>
+</challenge>
+<challenge answer="4">
+<question>In a nonlinear op-amp circuit, the</question>
+<option1>a. op-amp never saturates</option1>
+<option2>b. feedback loop is never opened</option2>
+<option3>c. output shape is the same as the input</option3>
+<option4>d. op-amp may saturate</option4>
+</challenge>
+<challenge answer="1">
+<question>In an active peak detector, the discharging time constant is</question>
+<option1>a. much longer than the period</option1>
+<option2>b. much shorter than the period</option2>
+<option3>c. equal to the period</option3>
+<option4>d. the same as the charging time constant</option4>
+</challenge>
+<challenge answer="2">
+<question>If the reference voltage is zero, the output of an active positive limiter is</question>
+<option1>a. positive</option1>
+<option2>b. negative</option2>
+<option3>c. either positive or negative</option3>
+<option4>d. a ramp</option4>
+</challenge>
+<challenge answer="1">
+<question>The output of an active positive clamper is</question>
+<option1>a. positive</option1>
+<option2>b. negative</option2>
+<option3>c. either positive or negative</option3>
+<option4>d. a ramp</option4>
+</challenge>
+<challenge answer="1">
+<question>The positive clamper adds</question>
+<option1>a. a positive dc voltage to the input</option1>
+<option2>b. a negative dc voltage to the input</option2>
+<option3>c. an ac signal to the output</option3>
+<option4>d. a trip point to the input</option4>
+</challenge>
+<challenge answer="1">
+<question>If you want a circuit that detects when the input is greater than a particular value, you can use a </question>
+<option1>a. comparator</option1>
+<option2>b. limiter</option2>
+<option3>c. clamper</option3>
+<option4>d. relaxation oscillator</option4>
+</challenge>
+<challenge answer="1">
+<question>A flag is</question>
+<option1>a. a voltage that is low or high</option1>
+<option2>b. a sine wave</option2>
+<option3>c. the output of a relaxation oscillator</option3>
+<option4>d. something hanging from a pole</option4>
+</challenge>
+<challenge answer="3">
+<question>The voltage out of a Schmitt trigger is</question>
+<option1>a. a low voltage</option1>
+<option2>b. a high voltage</option2>
+<option3>c. either a low or high voltage</option3>
+<option4>d. a sine wave</option4>
+</challenge>
+<challenge answer="2">
+<question>Hysteresis prevents false triggering associated with</question>
+<option1>a. a sinusoidal input</option1>
+<option2>b. unwanted noise voltages</option2>
+<option3>c. stray capacitances</option3>
+<option4>d. trip points</option4>
+</challenge>
+<challenge answer="3">
+<question>If the input is a rectangular pulse, the output of an integrator is a</question>
+<option1>a. sine wave</option1>
+<option2>b. square wave</option2>
+<option3>c. ramp</option3>
+<option4>d. rectangular pulse</option4>
+</challenge>
+<challenge answer="1">
+<question>When a large sine wave drives a Schmitt trigger, the output is a </question>
+<option1>a. rectangular wave</option1>
+<option2>b. triangular wave</option2>
+<option3>c. rectified sine wave </option3>
+<option4>d. series of ramps</option4>
+</challenge>
+<challenge answer="1">
+<question>When the width of the pulse decreases and the period stays the same, the duty cycle</question>
+<option1>a. decreases</option1>
+<option2>b. increases</option2>
+<option3>c. stays the same</option3>
+<option4>d. is zero</option4>
+</challenge>
+<challenge answer="2">
+<question>The output of a relaxation oscillator is a</question>
+<option1>a. sine wave</option1>
+<option2>b. square wave</option2>
+<option3>c. ramp </option3>
+<option4>d. spike</option4>
+</challenge>
+<challenge answer="2">
+<question>The input to a peak detector is a triangular wave with a peak-to-peak value of 8 V and a average value of 0. The output is</question>
+<option1>a. 0</option1>
+<option2>b. 8 V</option2>
+<option3>c. 4 V</option3>
+<option4>d. 16 V</option4>
+</challenge>
+<challenge answer="3">
+<question>A comparator with a trip point of zero is sometimes called a</question>
+<option1>a. threshold detector</option1>
+<option2>b. zero-crossing</option2>
+<option3>c. positive limit detector</option3>
+<option4>d. half-wave detector</option4>
+</challenge>
+<challenge answer="3">
+<question>To work properly, many IC comparators need an external</question>
+<option1>a. compensating capacitor</option1>
+<option2>b. bypass circuit</option2>
+<option3>c. pull-up resistor</option3>
+<option4>d. output stage</option4>
+</challenge>
+<challenge answer="1">
+<question>A Schmitt trigger uses</question>
+<option1>a. positive feedback</option1>
+<option2>b. negative feedback</option2>
+<option3>c. compensating feedback</option3>
+<option4>d. pull-up resistor</option4>
+</challenge>
+<challenge answer="2">
+<question>A Schmitt trigger</question>
+<option1>a. is a zero-crossing detector</option1>
+<option2>b. has two trip points</option2>
+<option3>c. produces triangular output waves</option3>
+<option4>d. is designed to trigger on noise voltages</option4>
+</challenge>
+<challenge answer="1">
+<question>A relaxation oscillator depends on the charging of a capacitor through a </question>
+<option1>a. resistor</option1>
+<option2>b. inductor</option2>
+<option3>c. capacitor</option3>
+<option4>d. non-inverting input</option4>
+</challenge>
+<challenge answer="3">
+<question>A ramp of voltage </question>
+<option1>a. always increases</option1>
+<option2>b. is a rectangular pulse</option2>
+<option3>c. increases or decreases at a linear rate</option3>
+<option4>d. is produced by hysteresis</option4>
+</challenge>
+<challenge answer="3">
+<question>The op-amp integrator uses</question>
+<option1>a. inductors</option1>
+<option2>b. Sinusoidal inputs</option2>
+<option3>c. The Miller-Effect</option3>
+<option4>d. Hysteresis</option4>
+</challenge>
+<challenge answer="3">
+<question>The trip point of a comparator is the input voltage that causes</question>
+<option1>a. the circuit to oscillate</option1>
+<option2>b. peak detection of the input signal</option2>
+<option3>c. the ouput to switch states</option3>
+<option4>d. clamping the occur</option4>
+</challenge>
+<challenge answer="4">
+<question>In an op-amp integrator, the current through the input resistor flows into the</question>
+<option1>a. inverting input</option1>
+<option2>b. non-inverting input</option2>
+<option3>c. bypass capacitor</option3>
+<option4>d. feedback capacitor</option4>
+</challenge>
+<challenge answer="2">
+<question>In a linear op-amp, the </question>
+<option1>a. signals are always sine waves</option1>
+<option2>b. op-amp never saturates</option2>
+<option3>c. input impedance is ideally infinite</option3>
+<option4>d. gain-bandwidth product is constant</option4>
+</challenge>
+<challenge answer="2">
+<question>In the AC amplifier using op-amp with the coupling and bypass capacitors, the output offset voltage is</question>
+<option1>a. zero</option1>
+<option2>b. minimum</option2>
+<option3>c. maximum</option3>
+<option4>d. unchanged</option4>
+</challenge>
+<challenge answer="1">
+<question>To use an op-amp, you need at least</question>
+<option1>a. one supply voltage</option1>
+<option2>b. two supply voltages</option2>
+<option3>c. one coupling capacitor</option3>
+<option4>d. one bypass capacitor</option4>
+</challenge>
+<challenge answer="2">
+<question>An audio amplifier ideally amplifies signals with frequecies from</question>
+<option1>a. 2 Hz to 2 kHz</option1>
+<option2>b. 20 Hz to 20 kHz</option2>
+<option3>c. 200 Hz to 200 kHz</option3>
+<option4>d. 20 Hz to 200 kHz</option4>
+</challenge>
+<challenge answer="2">
+<question>The virtual ground of an op-amp circuit</question>
+<option1>a. cannot have zero voltage</option1>
+<option2>b. cannot sink current</option2>
+<option3>c. is always positive</option3>
+<option4>d. is the same as ac ground</option4>
+</challenge>
+<challenge answer="1">
+<question>The input current to an inverting voltage amplifier (IVA) flows</question>
+<option1>a. through the series resistor</option1>
+<option2>b. into the non-inverting input</option2>
+<option3>c. into ground</option3>
+<option4>d. through the load resistor</option4>
+</challenge>
+<challenge answer="1">
+<question>The input current to an inverting voltage amplifier equals the input voltage divided by the </question>
+<option1>a. series resistane</option1>
+<option2>b. input impedance of the op-amp</option2>
+<option3>c. feedback resistance</option3>
+<option4>d. load resistor</option4>
+</challenge>
+<challenge answer="3">
+<question>The output voltage of an inverting voltage amplifier equals the input current times the </question>
+<option1>a. series resistance</option1>
+<option2>b. input impedance of the op-amp</option2>
+<option3>c. feedback resistance</option3>
+<option4>d. load resistor</option4>
+</challenge>
+<challenge answer="1">
+<question>A summer is an op-amp circuit that </question>
+<option1>a. adds the input voltages to get the output voltage</option1>
+<option2>b. mixes two audio signals</option2>
+<option3>c. works best in the summertime</option3>
+<option4>d. uses transistors</option4>
+</challenge>
+<challenge answer="3">
+<question>The close-loop voltage gain of an inverting voltage amplifier equals the</question>
+<option1>a. ratio of the load resistance to feedback resistance</option1>
+<option2>b. feedback resistance divided by the load resistance</option2>
+<option3>c. feedback resistance divided by the series resistance</option3>
+<option4>d. series resistance divided by the feedback resistance</option4>
+</challenge>
+<challenge answer="4">
+<question>The closed-loop output impedance of an inverting voltage amplifier is</question>
+<option1>a. ideally infinite</option1>
+<option2>b. ideally zero</option2>
+<option3>c. equal to the Zout of the op-amp</option3>
+<option4>d. equal to the series resistance</option4>
+</challenge>
+<challenge answer="1">
+<question>The closed loop input impedance of an inverting voltage amplifier is</question>
+<option1>a. constant</option1>
+<option2>b. constant when AB is much greater than 1</option2>
+<option3>c. constant when Acd is much greater than 1</option3>
+<option4>d. equal to f2</option4>
+</challenge>
+<challenge answer="2">
+<question>An instrumentation amplifier has a high</question>
+<option1>a. output impedance</option1>
+<option2>b. CMRR</option2>
+<option3>c. power gain</option3>
+<option4>d. Supply voltage</option4>
+</challenge>
+<challenge answer="4">
+<question>A resistance of RS//RF may be used as a dc return on the noninverting input of an inverting voltage amplifier to reduce the</question>
+<option1>a. bandwidth</option1>
+<option2>b. output voltage</option2>
+<option3>c. closed-loop voltage gain</option3>
+<option4>d. output offset voltage</option4>
+</challenge>
+<challenge answer="2">
+<question>An instrumentation amplifier has a high</question>
+<option1>a. output impedance</option1>
+<option2>b. CMRR</option2>
+<option3>c. power gain</option3>
+<option4>d. Supply voltage</option4>
+</challenge>
+<challenge answer="4">
+<question>A resistance of RS//RF may be used as a dc return on the noninverting voltage amplifier to reduce the</question>
+<option1>a. bandwidth</option1>
+<option2>b. output voltage</option2>
+<option3>c. closed-loop voltage gain</option3>
+<option4>d. output offset voltage</option4>
+</challenge>
+<challenge answer="3">
+<question>The closed-loop distortion of an inverting voltage amplifier is</question>
+<option1>a. ideally infinite</option1>
+<option2>b. more than the open-loop distortion</option2>
+<option3>c. less than the open-loop distortion</option3>
+<option4>d. stable</option4>
+</challenge>
+<challenge answer="3">
+<question>A low-pass filter will</question>
+<option1>a. pass high frequencies</option1>
+<option2>b. block low frequencies</option2>
+<option3>c. pass dc</option3>
+<option4>d. block dc</option4>
+</challenge>
+<challenge answer="4">
+<question>A high-pass filter will</question>
+<option1>a. stop high frequencies</option1>
+<option2>b. pass dc</option2>
+<option3>c. pass low frequencies</option3>
+<option4>d. block dc</option4>
+</challenge>
+<challenge answer="2">
+<question>Above the cutoff frequency of a two-pole low-pass filter, the output voltage decreases at a rate of</question>
+<option1>a. 20 dB per decade</option1>
+<option2>b. 40 dB per decade</option2>
+<option3>c. 60 dB per decade</option3>
+<option4>d. 80 dB per decade</option4>
+</challenge>
+<challenge answer="4">
+<question>Below the cut-off frequency of a four-pole high-pass filter , the output voltage decreases at a rate of </question>
+<option1>a. 20 dB per decade</option1>
+<option2>b. 40 dB per decade</option2>
+<option3>c. 60 dB per decade</option3>
+<option4>d. 80 dB per decade</option4>
+</challenge>
+<challenge answer="1">
+<question>When an op-amp is not saturated, the two input voltages are</question>
+<option1>a. ideally equal</option1>
+<option2>b. different</option2>
+<option3>c. exactly equal</option3>
+<option4>d. quite a bit different</option4>
+</challenge>
+<challenge answer="2">
+<question>When an op-amp is saturated, the two input voltages are usually </question>
+<option1>a. ideally equal</option1>
+<option2>b. different</option2>
+<option3>c. exactly equal</option3>
+<option4>d. quite a bit different</option4>
+</challenge>
+<challenge answer="1">
+<question>The current flowing into the inverting input of an op-amp is </question>
+<option1>a. ideally zero</option1>
+<option2>b. equal to the input current</option2>
+<option3>c. equal to the load current</option3>
+<option4>d. large</option4>
+</challenge>
+<challenge answer="2">
+<question>With negative feedback, the returning signal </question>
+<option1>a. aids the input signal</option1>
+<option2>b. opposes the input signal</option2>
+<option3>c. is proportional to output current</option3>
+<option4>d. is proportional to differential voltage gain</option4>
+</challenge>
+<challenge answer="4">
+<question>How many types of negative feedback ate there?</question>
+<option1>a. one</option1>
+<option2>b. three</option2>
+<option3>c. two</option3>
+<option4>d. four</option4>
+</challenge>
+<challenge answer="1">
+<question>With noninverting voltage feedback. the circuit approximates an ideal</question>
+<option1>a. voltage amplifier</option1>
+<option2>b. current-to-voltage</option2>
+<option3>c. voltage-to-current converter</option3>
+<option4>d. current amplifier</option4>
+</challenge>
+<challenge answer="1">
+<question>The error voltage of an ideal op-amp is</question>
+<option1>a. zero</option1>
+<option2>b. very small</option2>
+<option3>c. very large</option3>
+<option4>d. equal to the input voltage</option4>
+</challenge>
+<challenge answer="2">
+<question>The error voltage of a real op-amp is </question>
+<option1>a. zero </option1>
+<option2>b. very small</option2>
+<option3>c. very large</option3>
+<option4>d. equal to the input voltage</option4>
+</challenge>
+<challenge answer="2">
+<question>The loop gain AB</question>
+<option1>a. is usually much smaller than 1</option1>
+<option2>b. is usually much greater than 1</option2>
+<option3>c. may equal to 1</option3>
+<option4>d. may not equal 1</option4>
+</challenge>
+<challenge answer="2">
+<question>With noninverting voltage feedback, any decrease in differential voltage gain produces an increase in</question>
+<option1>a. output voltage</option1>
+<option2>b. error voltage</option2>
+<option3>c. feedback voltage</option3>
+<option4>d. input voltage</option4>
+</challenge>
+<challenge answer="1">
+<question>Negative feedback is</question>
+<option1>a. another of those perpetual-motion follies</option1>
+<option2>b. a mediocre phenomenon</option2>
+<option3>c. useless in mass production</option3>
+<option4>d. a fantastic invention that borders on magic</option4>
+</challenge>
+<challenge answer="2">
+<question>The open-loop voltage gain equals the </question>
+<option1>a. gain with negative feedback</option1>
+<option2>b. differential voltage gain of the op-amp</option2>
+<option3>c. gain when B is 1</option3>
+<option4>d. gain at f unity</option4>
+</challenge>
+<challenge answer="4">
+<question>The closed-loop input impedance with non-inverting voltage feedback is</question>
+<option1>a. usually larger than the open-loop input impedance</option1>
+<option2>b. equal to the open-loop input impedane</option2>
+<option3>c. sometimes less than the open-loop input impedance</option3>
+<option4>d. ideally zero</option4>
+</challenge>
+<challenge answer="4">
+<question>The closed-loop input impedance with inverting voltage feedback is</question>
+<option1>a. usually greater than the open-loop input impedance</option1>
+<option2>b. equally to the open-loop input impedance</option2>
+<option3>c. sometimes less than the open-loop input impedance</option3>
+<option4>d. ideally zero</option4>
+</challenge>
+<challenge answer="2">
+<question>With inverting voltage feedback, the circuit approximates an ideal</question>
+<option1>a. voltage amplifier</option1>
+<option2>b. current-to-voltage converter</option2>
+<option3>c. voltage-to-current converter</option3>
+<option4>d. current amplifier</option4>
+</challenge>
+<challenge answer="2">
+<question>Negative feedback reduces the</question>
+<option1>a. feedback fraction</option1>
+<option2>b. distortion</option2>
+<option3>c. input offset voltage</option3>
+<option4>d. error voltage</option4>
+</challenge>
+<challenge answer="3">
+<question>The desensitivity equals</question>
+<option1>a. AB</option1>
+<option2>b. ACL/A</option2>
+<option3>c. 1 + AB</option3>
+<option4>d. Funity</option4>
+</challenge>
+<challenge answer="3">
+<question>A voltage follower has a voltage gain of</question>
+<option1>a. less than 1</option1>
+<option2>b. more than 1</option2>
+<option3>c. 1</option3>
+<option4>d. A</option4>
+</challenge>
+<challenge answer="1">
+<question>When an op-amp is not saturated, the voltages at the noniverting and inverting inputs are </question>
+<option1>a. almost equal</option1>
+<option2>b. distinctly different</option2>
+<option3>c. equal to the output voltage</option3>
+<option4>d. equal to ±15 V</option4>
+</challenge>
+<challenge answer="4">
+<question>The transresistance of an amplifier is the ratio of its</question>
+<option1>a. output current to input voltage</option1>
+<option2>b. input voltage to output current</option2>
+<option3>c. output voltage to input voltage</option3>
+<option4>d. output voltage to input current</option4>
+</challenge>
+<challenge answer="2">
+<question>Current cannot flow to ground through</question>
+<option1>a. a mechanical gound</option1>
+<option2>b. a virtual ground</option2>
+<option3>c. an AC ground</option3>
+<option4>d. an ordinary ground</option4>
+</challenge>
+</elecquestions>
